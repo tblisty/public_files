@@ -36,9 +36,9 @@ div, section, article, main, .markdown-body {
 }
 
 /* Wymuszamy, by tabela zawsze rozwijana była na swoją pełną szerokość */
-/* table {
+table {
     display: table !important;
-    width: none !important;
+    /*width: none !important;*/
     overflow: visible !important;
 }
-*/
+
