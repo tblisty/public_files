@@ -6,18 +6,31 @@ table th, table td {
 --- */
 
 /* --- 2. WYDRUK: Usunięcie pasków przewijania i ucinania tabeli --- */
+
+/*
 @media print {
+*/
     /* Usuwamy suwaki i ograniczenia ze wszystkich kontenerów, które GitHub nakłada na tabelę */
+/*
     div, section, article, main, .markdown-body {
         overflow: visible !important;
         max-width: none !important;
         width: auto !important;
     }
-
+*/
     /* Wymuszamy, by tabela rozwinęła się na swoją pełną szerokość */
+/*
     table {
         display: table !important;
         width: auto !important;
         overflow: visible !important;
     }
+}
+*/
+
+/* Wymuszamy, by tabela zawsze rozwijana była na swoją pełną szerokość */
+table {
+    display: table !important;
+    width: auto !important;
+    overflow: visible !important;
 }
