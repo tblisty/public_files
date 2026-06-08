@@ -140,7 +140,7 @@ layout: default
       <td>-</td><!-- dać sygn. zezw. wyj. min.-->
       <td>3</td><!-- p. wyjechał godz. -->
       <td>10</td><!-- p. wyjechał min.-->
-      <td>może wyjechać g. 3<sup>08</sup><br>dr. przeb. z 2/1</td><!-- uwagi -->
+      <td class="tylko-reczne-lamanie">może wyjechać g. 3<sup>08</sup><br>dr. przeb. z 2/1</td><!-- uwagi -->
     </tr>
     <tr>
       <td>4424</td><!-- nr pociągu -->
@@ -164,7 +164,7 @@ layout: default
       <td>-</td><!-- dać sygn. zezw. wyj. min.-->
       <td>3</td><!-- p. wyjechał godz. -->
       <td>40</td><!-- p. wyjechał min.-->
-      <td>może wyjechać g. 3<sup>08</sup>,<br>Pu k<sup>1</sup>i<sup>2</sup>h<sup>2</sup>, po torze zamk.<br>nr 1 do km 12,100 i z po-<br>wrotem do st. Adamów</td><!-- uwagi -->
+      <td class="tylko-reczne-lamanie">może wyjechać g. 3<sup>08</sup>,<br>Pu k<sup>1</sup>i<sup>2</sup>h<sup>2</sup>, po torze zamk.<br>nr 1 do km 12,100 i z po-<br>wrotem do st. Adamów</td><!-- uwagi -->
     </tr>
 </table>
 
