@@ -1,3 +1,8 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="../table_style.css">
+
 # Przykład dla nastawni wykonawczej "Ad1" stacji Adamów położonej od strony stacji Czarnowo z urządzeniami blokady stacyjnej
 
 <table border="1" style="width:100%">
