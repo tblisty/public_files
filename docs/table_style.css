@@ -38,6 +38,6 @@ div, section, article, main, .markdown-body {
 /* Wymuszamy, by tabela zawsze rozwijana była na swoją pełną szerokość */
 table {
     display: table !important;
-    width: auto !important;
+    width: none !important;
     overflow: visible !important;
 }
