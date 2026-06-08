@@ -13,3 +13,7 @@ table {
     overflow: visible !important;
 }
 
+/* Ta klasa całkowicie blokuje automatyczne zawijanie, pozwalając działać tylko <br> */
+.tylko-reczne-lamanie {
+    white-space: nowrap !important;
+}
