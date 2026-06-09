@@ -153,7 +153,7 @@ layout: default
       <td></td><!-- dać sygn. zezw. wj. min.-->
       <td>4</td><!-- p. wjechał godz. -->
       <td>59</td><!-- p. wjechał min.-->
-      <td style="border-right: 3px double;"></td><!-- uwagi -->
+      <td style="border-right: 3px double;" class="tylko-reczne-lamanie"></td><!-- uwagi -->
       <td>Rob. 1</td><!-- nr pociągu -->
       <td>Cz</td><!-- do -->
       <td>5</td><!-- z toru -->
@@ -165,6 +165,91 @@ layout: default
       <td>3</td><!-- p. wyjechał godz. -->
       <td>40</td><!-- p. wyjechał min.-->
       <td class="tylko-reczne-lamanie">może wyjechać g. 3<sup>08</sup>,<br>Pu k<sup>1</sup>i<sup>2</sup>h<sup>2</sup>, po torze zamk.<br>nr 1 do km 12,100 i z po-<br>wrotem do st. Adamów</td><!-- uwagi -->
+    </tr>
+    <tr>
+      <td>4426</td><!-- nr pociągu -->
+      <td>Cz</td><!-- z -->
+      <td>2</td><!-- na tor -->
+      <td></td><!-- wjazd przygotowany w okręgu-->
+      <td></td><!-- wjazd przygotowany godz.-->
+      <td></td><!-- wjazd przygotowany min.-->
+      <td></td><!-- dać sygn. zezw. wj. godz.-->
+      <td></td><!-- dać sygn. zezw. wj. min.-->
+      <td>5</td><!-- p. wjechał godz. -->
+      <td>25</td><!-- p. wjechał min.-->
+      <td style="border-right: 3px double;" class="tylko-reczne-lamanie"></td><!-- uwagi -->
+      <td>-</td><!-- nr pociągu -->
+      <td>-</td><!-- do -->
+      <td>-</td><!-- z toru -->
+      <td>-</td><!-- wyjazd przygotowany w okręgu-->
+      <td>-</td><!-- wyjazd przygotowany godz.-->
+      <td>-</td><!-- wyjazd przygotowany min.-->
+      <td>-</td><!-- dać sygn. zezw. wyj. godz.-->
+      <td>-</td><!-- dać sygn. zezw. wyj. min.-->
+      <td>-</td><!-- p. wyjechał godz. -->
+      <td>-</td><!-- p. wyjechał min.-->
+      <td class="tylko-reczne-lamanie">-</td><!-- uwagi -->
+    </tr>
+    <tr>
+      <td>Rob. 1</td><!-- nr pociągu -->
+      <td>Cz</td><!-- z -->
+      <td>5</td><!-- na tor -->
+      <td></td><!-- wjazd przygotowany w okręgu-->
+      <td>5</td><!-- wjazd przygotowany godz.-->
+      <td>43</td><!-- wjazd przygotowany min.-->
+      <td></td><!-- dać sygn. zezw. wj. godz.-->
+      <td></td><!-- dać sygn. zezw. wj. min.-->
+      <td>5</td><!-- p. wjechał godz. -->
+      <td>45</td><!-- p. wjechał min.-->
+      <td style="border-right: 3px double;" class="tylko-reczne-lamanie">dr. przeb. h<sup>2</sup></td><!-- uwagi -->
+      <td>-</td><!-- nr pociągu -->
+      <td>-</td><!-- do -->
+      <td>-</td><!-- z toru -->
+      <td>-</td><!-- wyjazd przygotowany w okręgu-->
+      <td>-</td><!-- wyjazd przygotowany godz.-->
+      <td>-</td><!-- wyjazd przygotowany min.-->
+      <td>-</td><!-- dać sygn. zezw. wyj. godz.-->
+      <td>-</td><!-- dać sygn. zezw. wyj. min.-->
+      <td>-</td><!-- p. wyjechał godz. -->
+      <td>-</td><!-- p. wyjechał min.-->
+      <td class="tylko-reczne-lamanie">-</td><!-- uwagi -->
+    </tr>
+    <tr>
+     <td colspan="22">Tor nr 1od st. Adamów do st. Czarnowo otwarty o godz. 5<sup>55</sup></td>
+  </tr>
+	  <tr>
+          <td colspan="22">Przywrócono ruch dwutorowy od st. Czarnowo do st. Adamów o godz. 6<sup>05</sup></td>
+    </tr>
+    <tr>
+          <td colspan="22">O godz. 6<sup>15</sup> odwołuję telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu dla wjazdu wszystkich pociągów do st. Czarnowo po torze szlakowym nr 2 oraz dla wjazdów i wyjazdów pociągów na i z toru zamkniętego nr 1.</td>
+    </tr>
+     <tr>
+          <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał ISEDR Kowalski,</td>
+          <td colspan="11" style="text-align: center;">odebrał nast. Malinowski.</td>
+    </tr>
+    <tr>
+      <td>7496</td><!-- nr pociągu -->
+      <td>Cz</td><!-- z -->
+      <td>4</td><!-- na tor -->
+      <td></td><!-- wjazd przygotowany w okręgu-->
+      <td></td><!-- wjazd przygotowany godz.-->
+      <td></td><!-- wjazd przygotowany min.-->
+      <td></td><!-- dać sygn. zezw. wj. godz.-->
+      <td></td><!-- dać sygn. zezw. wj. min.-->
+      <td>6</td><!-- p. wjechał godz. -->
+      <td>31</td><!-- p. wjechał min.-->
+      <td style="border-right: 3px double;" class="tylko-reczne-lamanie"></td><!-- uwagi -->
+      <td>4763</td><!-- nr pociągu -->
+      <td>Cz</td><!-- do -->
+      <td>3</td><!-- z toru -->
+      <td></td><!-- wyjazd przygotowany w okręgu-->
+      <td></td><!-- wyjazd przygotowany godz.-->
+      <td></td><!-- wyjazd przygotowany min.-->
+      <td></td><!-- dać sygn. zezw. wyj. godz.-->
+      <td></td><!-- dać sygn. zezw. wyj. min.-->
+      <td>6</td><!-- p. wyjechał godz. -->
+      <td>28</td><!-- p. wyjechał min.-->
+      <td class="tylko-reczne-lamanie"></td><!-- uwagi -->
     </tr>
 </table>
 
