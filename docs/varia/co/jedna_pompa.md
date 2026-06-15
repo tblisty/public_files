@@ -15,7 +15,7 @@ R1 --> ATV
 %% GAŁĄŹ CO
 V3 --> CO([Instalacja CO / grzejniki]) --> R2
 
-R2((●)) --> ATV
+R2 --> ATV
 
 classDef wezly fill:transparent,stroke:transparent,stroke-width:1px;
 
