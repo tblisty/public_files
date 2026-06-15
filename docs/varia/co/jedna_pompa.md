@@ -21,3 +21,12 @@ classDef wezly fill:transparent,stroke:transparent,stroke-width:1px;
 
 class R1,R2 wezly
 ```
+
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  // Konfiguracja: startOnLoad automatycznie szuka bloków <pre class="language-mermaid"> lub .mermaid i zamienia je w rysunek
+  mermaid.initialize({ 
+    startOnLoad: true,
+    theme: 'default' // Możesz zmienić na 'dark', 'forest' lub 'neutral'
+  });
+</script>
