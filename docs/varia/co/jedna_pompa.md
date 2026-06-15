@@ -15,9 +15,9 @@ V3 --> CO([Instalacja CO / grzejniki]) --- R2
 
 R2 --> ATV
 
-classDef wezly fill:transparent,stroke:transparent,stroke-width:1px;
+%classDef wezly fill:transparent,stroke:transparent,stroke-width:1px;
 
-class ATV wezly
+%class ATV wezly
 
 classDef point fill:none,stroke:none,width:0px,height:0px,color:#00000000;
 
