@@ -5,6 +5,8 @@ layout: default
 
 # Przykład dla nastawni wykonawczej "Db1" stacji Dubno położonej od strony stacji Biała z urządzeniami blokady stacyjnej
 
+Biała - Dubno - Krowica
+
 <table border="1" style="width:100%">
   <tr>
     <th colspan="3">Przygotować wjazd</th>
@@ -59,33 +61,40 @@ layout: default
         <th style="text-align: center;">8</th>
     </tr>
 <tr>
-    <td>4418</td>
-    <td>Cz</td>
-    <td>2</td>
+    <td style="text-align: center;">123202</td>
+    <td style="text-align: center;">Kw</td>
+    <td style="text-align: center;">3</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>2</td>
-    <td>25</td>
+    <td style="text-align: center;">12</td>
+    <td style="text-align: center;">05</td>
+    <td colspan="2" style="text-align: center;">-</td>
+    <td style="text-align: center;">12</td>
+    <td style="text-align: center;">10</td>
     <td style="border-right: 3px double;"></td>
-    <td>4417</td><!-- nr pociągu -->
-    <td>Cz</td><!-- do -->
-    <td>1</td><!-- z toru -->
+    <td style="text-align: center;">-</td><!-- nr pociągu -->
+    <td style="text-align: center;">-</td><!-- do -->
+    <td style="text-align: center;">-</td><!-- z toru -->
     <td></td><!-- wyjazd przygotowany w okręgu-->
-    <td></td><!-- wyjazd przygotowany godz.-->
-    <td></td><!-- wyjazd przygotowany min.-->
-    <td></td><!-- dać sygn. zezw. wyj. godz.-->
-    <td></td><!-- dać sygn. zezw. wyj. min.-->
-    <td>2</td><!-- p. wyjechał godz. -->
-    <td>03</td><!-- p. wyjechał min.-->
+    <td colspan="2" style="text-align: center;">-</td><!-- wyjazd przygotowany godz.-->
+    <!-- <td></td><!-- wyjazd przygotowany min.-->
+    <td colspan="2" style="text-align: center;">-</td><!-- dać sygn. zezw. wyj. godz.-->
+    <!-- <td></td><!-- dać sygn. zezw. wyj. min.-->
+    <td colspan="2" style="text-align: center;">-</td><!-- p. wyjechał godz. -->
+    <!--<td style="text-align: center;">03</td><!-- p. wyjechał min.-->
     </tr>
   <tr>
-     <td colspan="22">Tor nr 1 od st. Adamów do st. Czarnowo zamknięty od godz. 2<sup>30</sup> z powodu pęknięcia szyny na km 22,100.</td>
+     <td colspan="22">O godz 12<sup>10</sup> tor nr 1 od Białej do Dubna zamknięty awaryjnie z powodu pęknięcia szyny.</td>
   </tr>
   <tr>
-     <td colspan="22">Od st. Czarnowo do st. Adamów wprowadzono ruch jednotorowy dwukierunkowy po torze nr 2.</td>
+     <td colspan="11" style="border-right: 3px double; text-align: center;">Nadał ISEDR Kowalski</td><!-- ISEDR -->
+     <td colspan="11" style="text-align: center;">Odebrał nast. Malinowski </td>
+  </tr>
+  tr>
+     <td colspan="22">O godz 12<sup>12</sup> wprowadzam ruch jednotorowy dwukierunkowy po torze nr 2 szlaku Biała - Dubno.</td>
+  </tr>
+  <tr>
+     <td colspan="11" style="border-right: 3px double; text-align: center;">Nadał ISEDR Kowalski</td><!-- ISEDR -->
+     <td colspan="11" style="text-align: center;">Odebrał nast. Malinowski </td>
   </tr>
   <tr>
      <td colspan="22">O godz. 2<sup>40</sup> wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu dla wjazdów i wyjazdów pociągów do st. Czarnowo po torze sałatkowym nr 2 oraz dla wjazdów i wyjazdów pociągów na i z toru zamkniętego nr 1 z powodu jazdy pociągów na przebiegi niezorganizowane.</td>
