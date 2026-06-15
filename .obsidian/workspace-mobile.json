@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/varia/co/pompa3.md",
+                "file": "docs/varia/co/jedna_pompa.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "pompa3"
+              "title": "jedna_pompa"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/varia/co/pompa3.md",
+            "file": "docs/varia/co/jedna_pompa.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,6 +170,7 @@
   },
   "active": "4c0a19bc7f3633a1",
   "lastOpenFiles": [
+    "docs/varia/co/jedna_pompa2.md",
     "docs/varia/co/jedna_pompa.md",
     "docs/varia/co/pompa3.md",
     "docs/varia/co/pompa2.md\n\n%% Kocioł \nATV([Zawór ATV / ochrona powrotu]) --> P([Pompa]) --> K[Kocioł na ekogroszek] --> R1((●)) --> V3([Zawór trójdrogowy przełączający]) --> CWU([Wężownica zasobnika CWU]) --> R2((●))\n\nR1 --> ATV\n\n\n%% GAŁĄŹ CWU\n\n%% GAŁĄŹ CO\nV3 --> CO([Instalacja CO ",
