@@ -1,0 +1,19 @@
+
+/* Usuwamy suwaki i ograniczenia szerokości ze wszystkich kontenerów GitHuba */
+div, section, article, main, .markdown-body {
+    overflow: visible !important;
+    max-width: none !important;
+    width: auto !important;
+}
+
+/* Wymuszamy, by tabela zawsze rozwijana była na swoją pełną szerokość */
+table {
+    display: table !important;
+    width: none !important;
+    overflow: visible !important;
+}
+
+/* Ta klasa całkowicie blokuje automatyczne zawijanie, pozwalając działać tylko <br> */
+.tylko-reczne-lamanie {
+    white-space: nowrap !important;
+}

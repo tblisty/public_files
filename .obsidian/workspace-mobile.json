@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/varia/usterka/zerwanie_pedni_zwrotnicowej.md",
-                "mode": "preview",
+                "file": "docs/varia/usterka/zerwanie_pedni_t2.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "zerwanie_pedni_zwrotnicowej"
+              "title": "zerwanie_pedni_t2"
             }
           }
         ]
@@ -170,8 +170,15 @@
   },
   "active": "4c0a19bc7f3633a1",
   "lastOpenFiles": [
-    "docs/varia/co/jedna_pompa.md",
+    "docs/varia/usterka/zerwanie_pedni_t1.md",
+    "docs/varia/usterka/zerwanie_pedni_t2.md",
     "docs/varia/usterka/zerwanie_pedni_zwrotnicowej.md",
+    "docs/varia/usterka/zerwanie_pedni_zwrotnicowej_bak.md",
+    "docs/zerwanie_pedni_zwrotnicowej.md",
+    "docs/zerwanie_pedni_zwrotnicowej_bak.md",
+    "docs/varia/r-142_html_02p.md",
+    "docs/varia/usterka/table_style.css",
+    "docs/varia/co/jedna_pompa.md",
     "docs/varia/usterka",
     "docs/varia/co/jedna_pompa2.md",
     "docs/varia/co/pompa3.md",
@@ -179,7 +186,6 @@
     "docs/varia/co/pompa2.md\n\n%% Kocioł \nATV([Zawór ATV ",
     "docs/index.md",
     "docs/varia/zamkniecie_toru_nr_1.md",
-    "docs/varia/co",
-    "docs/varia/r-142_html_02p.md"
+    "docs/varia/co"
   ]
 }

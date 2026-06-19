@@ -1,55 +1,7 @@
-<style>
-
-
-
-/* Usuwamy suwaki i ograniczenia szerokości ze wszystkich kontenerów GitHuba */
-div, section, article, main, .markdown-body {
-    overflow: visible !important;
-    max-width: none !important;
-    width: auto !important;
-}
-
-/* Wymuszamy, by tabela zawsze rozwijana była na swoją pełną szerokość */
-table {
-    display: table !important;
-    width: none !important;
-    overflow: visible !important;
-}
-
-/* Ta klasa całkowicie blokuje automatyczne zawijanie, pozwalając działać tylko <br> */
-.tylko-reczne-lamanie {
-    white-space: nowrap !important;
-}
-
-.no-bottom td {
-    border-bottom: none;
-}
-
-.no-top td {
-    border-top: none;
-}
-
-
-/* Usuwamy suwaki i ograniczenia szerokości ze wszystkich kontenerów GitHuba */  
-div, section, article, main, .markdown-body {  
-    overflow: visible !important;  
-    max-width: none !important;  
-    width: auto !important;  
-}
-
-/* Wymuszamy, by tabela zawsze rozwijana była na swoją pełną szerokość */  
-table {  
-    display: table !important;  
-    width: none !important;  
-    overflow: visible !important;  
-}
-
-/* Ta klasa całkowicie blokuje automatyczne zawijanie, pozwalając działać tylko <br> */  
-.tylko-reczne-lamanie {  
-    white-space: nowrap !important;  
-}
-
-</style>
+---
+layout: default
+---
+<link rel="stylesheet" href="./table_style.css">
 
 # Zerwanie pędni zwrotnicowej 
 
@@ -57,26 +9,20 @@ Objaw: luźna linka i wykleszczeniu
 
 ## 1. Wpis w E-1758 i zgłoszenie
 
-<table class="tabela-e1758">
+<table>
   <tr>
     <th>Data i godzina</th>
     <th>Rodzaj przeszkody lub uszkodzenia, przyczyny ich powstania, roboty związane z ich usunięciem, zdjęciem i założeniem plomb, wprowadzenie i odwołanie obostrzeń</th>
     <th>Uwagi organu nadzorczego</th>
   </tr>
-  <tr class="no-bottom">
-    <td>03.02.2004<br>11:03</td>
-    <td>Po przejeździe pociągu nr 1233 nastąpiło zerwanie pędni w rozjeździe nr 1<div style="text-align:right; margin-top:0em ! important;">
-      Nadał ISEDR Kowalski<br>
-      nast. Malinowski
-    </div></td>
-    <td></td>
+  <tr>
+    <td style="border-bottom: none;">03.02.2004<br>11:03</td>
+    <td style="border-bottom: none;">Po przejeździe pociągu nr 1233 nastąpiło zerwanie pędni w rozjeździe nr 1</td>
+    <td style="border-bottom: none;"></td>
   </tr>
   <tr>
     <td style="border-top: none;"></td>
-    <td style="text-align: right;border-top: none;">Nadał nast. Malinowski<br>Odebrał ISEDR Kowalskidiv style="text-align:right; margin-top:1em;">
-      Nadał ISEDR Kowalski<br>
-      nast. Malinowski
-    </div></td>
+    <td style="text-align: right;border-top: none;">Nadał nast. Malinowski<br>Odebrał ISEDR Kowalski</td>
     <td style="border-top: none"></td>
   </tr>
 
