@@ -23,7 +23,7 @@ Objaw: luźna linka i wykleszczeniu
     <th>Uwagi organu nadzorczego</th>
   </tr>
   <tr>
-    <td class="top_alignment">03.02.2004<br>11:03</td>
+    <td class="top_alignment">03.02.2004<br>godz. 11:03</td>
     <td>Po przejeździe pociągu nr 1233 nastąpiło zerwanie pędni w rozjeździe nr 1<br><span class="signature">Nadał nast. Malinowski<br>Odebrał ISEDR Kowalski</span>
     </td>
     <td></td>
