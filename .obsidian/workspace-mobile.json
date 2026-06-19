@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "b587deb85e258475",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3a3c1b31be48f36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c0a19bc7f3633a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/varia/usterka/zerwanie_pedni_t2.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "zerwanie_pedni_t2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd9aec3b51f438d4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1f0ed722521504d5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Przeglądarka plików"
+        }
+      },
+      {
+        "id": "571304f00e784fe5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Wyszukiwarka"
+        }
+      },
+      {
+        "id": "2860bed038d53aac",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tagi"
+        }
+      },
+      {
+        "id": "7d574655622ec334",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Wszystkie atrybuty"
+        }
+      },
+      {
+        "id": "4b943081a7ed034a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Ulubione"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7c610e052a8f4d1c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8376146550856320",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "docs/varia/usterka/zerwanie_pedni_zwrotnicowej.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Linki zwrotne"
+        }
+      },
+      {
+        "id": "dae2f1a96aab0366",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "docs/varia/r-142_html_02p.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Łącza wychodzące"
+        }
+      },
+      {
+        "id": "bdfab1c3ae1d6773",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "docs/varia/r-142_html_02p.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Konspekt"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "graph:Otwórz podgląd grafu": false,
+      "canvas:Stwórz nową tablicę": false,
+      "daily-notes:Otwórz dzisiejszy dziennik": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz listę poleceń": false,
+      "bases:Stwórz nową bazę danych": false
+    }
+  },
+  "active": "4c0a19bc7f3633a1",
+  "lastOpenFiles": [
+    "docs/varia/usterka/zerwanie_pedni_t1.md",
+    "docs/varia/usterka/zerwanie_pedni_t2.md",
+    "docs/varia/usterka/zerwanie_pedni_zwrotnicowej.md",
+    "docs/varia/usterka/zerwanie_pedni_zwrotnicowej_bak.md",
+    "docs/zerwanie_pedni_zwrotnicowej.md",
+    "docs/zerwanie_pedni_zwrotnicowej_bak.md",
+    "docs/varia/r-142_html_02p.md",
+    "docs/varia/usterka/table_style.css",
+    "docs/varia/co/jedna_pompa.md",
+    "docs/varia/usterka",
+    "docs/varia/co/jedna_pompa2.md",
+    "docs/varia/co/pompa3.md",
+    "docs/varia/co/pompa2.md\n\n%% Kocioł \nATV([Zawór ATV / ochrona powrotu]) --> P([Pompa]) --> K[Kocioł na ekogroszek] --> R1((●)) --> V3([Zawór trójdrogowy przełączający]) --> CWU([Wężownica zasobnika CWU]) --> R2((●))\n\nR1 --> ATV\n\n\n%% GAŁĄŹ CWU\n\n%% GAŁĄŹ CO\nV3 --> CO([Instalacja CO ",
+    "docs/varia/co/pompa2.md\n\n%% Kocioł \nATV([Zawór ATV ",
+    "docs/index.md",
+    "docs/varia/zamkniecie_toru_nr_1.md",
+    "docs/varia/co"
+  ]
+}
