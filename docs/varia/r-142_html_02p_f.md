@@ -1,4 +1,7 @@
----
+        <th style="text-align: center;">3</th>
+        <th style="text-align: center;">4</th>
+        <th colspan="2" style="text-align: center;">5</th>
+        <th colspan="2" style="text-align: center;">6</th---
 layout: default
 ---
 <link rel="stylesheet" href="../table_style.css">
@@ -43,10 +46,7 @@ layout: default
     <tr>
         <th style="text-align: center;">1</th>
         <th style="text-align: center;">2</th>
-        <th style="text-align: center;">3</th>
-        <th style="text-align: center;">4</th>
-        <th colspan="2" style="text-align: center;">5</th>
-        <th colspan="2" style="text-align: center;">6</th>
+>
         <th colspan="2" style="text-align: center;">7</th>
         <th style="text-align: center; border-right: 3px double;">8</th>
         <th style="text-align: center;">1</th>
