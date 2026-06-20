@@ -1,6 +1,4 @@
----
-layout: default
----
+
 <link rel="stylesheet" href="./style1.css">
 
 # Zerwanie pędni zwrotnicowej 
@@ -79,7 +77,11 @@ Objaw: luźna linka i wykleszczeniu
     </tr>
   <tr>
     <td colspan="22">O godz. 11<sup>04</sup> wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu dla pociągów wyjeżdżających do Białej na tor nr 2 z powodu pęknięcia pędni zwrotnicowej w rozjeździe nr 1.</td>
-  </tr>  
+  </tr>
+  <tr>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał ISEDR Kowalski</td>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">Odebrał nast. Malinowski</td>
+  </tr>
 <tr>
     <td>4418</td>
     <td>Cz</td>
