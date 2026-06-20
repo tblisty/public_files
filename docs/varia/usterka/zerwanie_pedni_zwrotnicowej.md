@@ -20,7 +20,9 @@ Objaw: luźna linka i wykleszczeniu
     </tr>
 </table>
 
-## Wprowadzenie telefonicznego polecania i zgłaszania przygotowania dróg przebiegu
+## 2. Wprowadzenie telefonicznego polecania i zgłaszania przygotowania dróg przebiegu
+
+### 2.1 R-142
 
 <table class="szeroka-tabela" border="1">
   <tr>
@@ -80,7 +82,165 @@ Objaw: luźna linka i wykleszczeniu
   </tr>
   <tr>
     <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał ISEDR Kowalski</td>
-    <td colspan="11" style="text-align: center; border-right: 3px double;">Odebrał nast. Malinowski</td>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">Odebrał nast. Malinowski, godz. 11<sup>05</sup>.</td>
+  </tr>
+</table>
+
+### 2.2 E-1758
+
+<table>
+  <tr>
+    <th>Data i godzina</th>
+    <th>Rodzaj przeszkody lub uszkodzenia, przyczyny ich powstania, roboty związane z ich usunięciem, zdjęciem i założeniem plomb, wprowadzenie i odwołanie obostrzeń</th>
+    <th>Uwagi organu nadzorczego</th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">03.02.2004<br>godz. 11<sup>03</sup></td>
+    <td>Po przejeździe pociągu nr 1233 nastąpiło zerwanie pędni w rozjeździe nr 1<br><span style="text-align: right; display: block; width: 100%; margin: 0; padding: 0;">Nadał nast. Malinowski<br>Odebrał ISEDR Kowalski</span></td>
+    <td></td>
+    </tr>
+  <tr>
+    <td style="vertical-align: top;">03.02.2004<br>godz. 11<sup>04</sup></td>
+    <td>Wprowadzono telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu dla pociągów wyjeżdżających do Białej na tor nr 2.<br><span style="text-align: right; display: block; width: 100%; margin: 0; padding: 0;">Nadał ISEDR Kowalski<br>Odebrał nast. Malinowski</span></td>
+    <td></td>
+  </tr>
+</table>
+
+## 3. Klucz do naprężalni
+
+### 3.1 R-142
+
+<table class="szeroka-tabela" border="1">
+  <tr>
+    <th colspan="3" style="text-align: center;">Przygotować wjazd</th>
+    <th colspan="3" style="text-align: center;">Wjazd przygotowany<br>(tor wolny)</th>
+    <th colspan="2" style="text-align: center;">Dać sygn.<br>zezwalający<br>na<br>semaforze<br>wjazdowym</th>
+    <th colspan="2" style="text-align: center;">Pociąg<br>wjechał</th>
+    <th rowspan="2" style="border-right: 3px double;">Uwagi</th>
+    <th colspan="3" style="text-align: center;">Przygotować wyjazd</th>
+    <th colspan="3" style="text-align: center;">Wyjazd przygotowany <br>(tor wolny)</th>
+    <th colspan="2" style="text-align: center;">Dać sygn. <br>zezwalający <br>na semafo-<br>rze wyjaz-<br>dowym</th>
+    <th colspan="2" style="text-align: center;">Pociąg<br>wyjechał</th>
+    <th rowspan="2" style="text-align: center;">Uwagi</th>
+  </tr>
+  <tr>
+    <th>pociągu<br>nr</th>
+    <th>z (skrót sąsiedn. poster. zapow.)</th>
+    <th>na tor</th>
+    <th>w okręgu</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>pociągu<br>nr</th>
+    <th>do (skrót sąsiedn. poster. zapow.)</th>
+    <th>z toru</th>
+    <th>w okręgu</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    </tr>
+    <tr>
+        <th style="text-align: center;">1</th>
+        <th style="text-align: center;">2</th>
+        <th style="text-align: center;">3</th>
+        <th style="text-align: center;">4</th>
+        <th colspan="2" style="text-align: center;">5</th>
+        <th colspan="2" style="text-align: center;">6</th>
+        <th colspan="2" style="text-align: center;">7</th>
+        <th style="text-align: center; border-right: 3px double;">8</th>
+        <th style="text-align: center;">1</th>
+        <th style="text-align: center;">2</th>
+        <th style="text-align: center;">3</th>
+        <th style="text-align: center;">4</th>
+        <th colspan="2" style="text-align: center;">5</th>
+        <th colspan="2" style="text-align: center;">6</th>
+        <th colspan="2" style="text-align: center;">7</th>
+        <th style="text-align: center;">8</th>
+    </tr>
+  <tr>
+    <td colspan="22">O godz. 11<sup>04</sup> wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu dla pociągów wyjeżdżających do Białej na tor nr 2 z powodu pęknięcia pędni zwrotnicowej w rozjeździe nr 1.</td>
+  </tr>
+  <tr>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał ISEDR Kowalski</td>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">Odebrał nast. Malinowski, godz. 11<sup>05</sup>.</td>
+  </tr>
+  <tr>
+    <td colspan="22">Godz. 11<sup>06</sup>, polecam zerwać plombę klucza do naprężalni w celu podniesienia ciężarów.</td>
+  </tr>
+  <tr>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał ISEDR Kowalski</td>
+    <td colspan="11" style="text-align: center;">Odebrał nast. Malinowski</td>
+</table>
+
+
+
+## Draft
+
+<table class="szeroka-tabela" border="1">
+  <tr>
+    <th colspan="3" style="text-align: center;">Przygotować wjazd</th>
+    <th colspan="3" style="text-align: center;">Wjazd przygotowany<br>(tor wolny)</th>
+    <th colspan="2" style="text-align: center;">Dać sygn.<br>zezwalający<br>na<br>semaforze<br>wjazdowym</th>
+    <th colspan="2" style="text-align: center;">Pociąg<br>wjechał</th>
+    <th rowspan="2" style="border-right: 3px double;">Uwagi</th>
+    <th colspan="3" style="text-align: center;">Przygotować wyjazd</th>
+    <th colspan="3" style="text-align: center;">Wyjazd przygotowany <br>(tor wolny)</th>
+    <th colspan="2" style="text-align: center;">Dać sygn. <br>zezwalający <br>na semafo-<br>rze wyjaz-<br>dowym</th>
+    <th colspan="2" style="text-align: center;">Pociąg<br>wyjechał</th>
+    <th rowspan="2" style="text-align: center;">Uwagi</th>
+  </tr>
+  <tr>
+    <th>pociągu<br>nr</th>
+    <th>z (skrót sąsiedn. poster. zapow.)</th>
+    <th>na tor</th>
+    <th>w okręgu</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>pociągu<br>nr</th>
+    <th>do (skrót sąsiedn. poster. zapow.)</th>
+    <th>z toru</th>
+    <th>w okręgu</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    </tr>
+    <tr>
+        <th style="text-align: center;">1</th>
+        <th style="text-align: center;">2</th>
+        <th style="text-align: center;">3</th>
+        <th style="text-align: center;">4</th>
+        <th colspan="2" style="text-align: center;">5</th>
+        <th colspan="2" style="text-align: center;">6</th>
+        <th colspan="2" style="text-align: center;">7</th>
+        <th style="text-align: center; border-right: 3px double;">8</th>
+        <th style="text-align: center;">1</th>
+        <th style="text-align: center;">2</th>
+        <th style="text-align: center;">3</th>
+        <th style="text-align: center;">4</th>
+        <th colspan="2" style="text-align: center;">5</th>
+        <th colspan="2" style="text-align: center;">6</th>
+        <th colspan="2" style="text-align: center;">7</th>
+        <th style="text-align: center;">8</th>
+    </tr>
+  <tr>
+    <td colspan="22">O godz. 11<sup>04</sup> wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu dla pociągów wyjeżdżających do Białej na tor nr 2 z powodu pęknięcia pędni zwrotnicowej w rozjeździe nr 1.</td>
+  </tr>
+  <tr>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał ISEDR Kowalski</td>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">Odebrał nast. Malinowski, godz. 11<sup>05</sup>.</td>
   </tr>
 <tr>
     <td>4418</td>
