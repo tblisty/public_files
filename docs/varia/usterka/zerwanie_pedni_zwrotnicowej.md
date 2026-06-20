@@ -3,20 +3,39 @@ layout: default
 ---
 <link rel="stylesheet" href="./style1.css">
 
-# Przykład dla nastawni wykonawczej "Ad1" stacji Adamów położonej od strony stacji Czarnowo z urządzeniami blokady stacyjnej
+# Zerwanie pędni zwrotnicowej 
+
+Objaw: luźna linka i wykleszczeniu
+
+## 1. Wpis w E-1758 i zgłoszenie
+
+<table>
+  <tr>
+    <th>Data i godzina</th>
+    <th>Rodzaj przeszkody lub uszkodzenia, przyczyny ich powstania, roboty związane z ich usunięciem, zdjęciem i założeniem plomb, wprowadzenie i odwołanie obostrzeń</th>
+    <th>Uwagi organu nadzorczego</th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">03.02.2004<br>godz. 11<sup>03</sup></td>
+    <td>Po przejeździe pociągu nr 1233 nastąpiło zerwanie pędni w rozjeździe nr 1<br><span style="text-align: right; display: block; width: 100%; margin: 0; padding: 0;">Nadał nast. Malinowski<br>Odebrał ISEDR Kowalski</span></td>
+    <td></td>
+    </tr>
+</table>
+
+## Wprowadzenie telefonicznego polecania i zgłaszania przygotowania dróg przebiegu
 
 <table class="szeroka-tabela" border="1">
   <tr>
-    <th colspan="3">Przygotować wjazd</th>
-    <th colspan="3">Wjazd przygotowany (tor wolny)</th>
-    <th colspan="2">Dać sygn. zezwalający na semaforze wjazdowym</th>
-    <th colspan="2">Pociąg wjechał</th>
+    <th colspan="3" style="text-align: center;">Przygotować wjazd</th>
+    <th colspan="3" style="text-align: center;">Wjazd przygotowany<br>(tor wolny)</th>
+    <th colspan="2" style="text-align: center;">Dać sygn.<br>zezwalający<br>na<br>semaforze<br>wjazdowym</th>
+    <th colspan="2" style="text-align: center;">Pociąg<br>wjechał</th>
     <th rowspan="2" style="border-right: 3px double;">Uwagi</th>
-    <th colspan="3">Przygotować wyjazd</th>
-    <th colspan="3">Wyjazd <br>przygotowany <br>(tor wolny)</th>
-    <th colspan="2">Dać sygn. <br>zezwalający <br>na semafo-<br>rze wyjaz-<br>dowym</th>
-    <th colspan="2">Pociąg wyjechał</th>
-    <th rowspan="2">Uwagi</th>
+    <th colspan="3" style="text-align: center;">Przygotować wyjazd</th>
+    <th colspan="3" style="text-align: center;">Wyjazd przygotowany <br>(tor wolny)</th>
+    <th colspan="2" style="text-align: center;">Dać sygn. <br>zezwalający <br>na semafo-<br>rze wyjaz-<br>dowym</th>
+    <th colspan="2" style="text-align: center;">Pociąg<br>wyjechał</th>
+    <th rowspan="2" style="text-align: center;">Uwagi</th>
   </tr>
   <tr>
     <th>pociągu<br>nr</th>
@@ -58,6 +77,9 @@ layout: default
         <th colspan="2" style="text-align: center;">7</th>
         <th style="text-align: center;">8</th>
     </tr>
+  <tr>
+    <td colspan="22">O godz. 11<sup>04</sup> wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu dla pociągów wyjeżdżających do Białej na tor nr 2 z powodu pęknięcia pędni zwrotnicowej w rozjeździe nr 1.</td>
+  </tr>  
 <tr>
     <td>4418</td>
     <td>Cz</td>
