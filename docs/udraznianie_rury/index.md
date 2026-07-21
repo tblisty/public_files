@@ -1,9 +1,17 @@
 # Udrażnianie zlewu jak profesjonalista
-Za pomocą "lejka"
+
+## 1.  
+
+Za pomocą "lejka"  
+
 !["lejka"](lejek_prowadzacy_do_rury_w_scianie.jpg)  
-wlałem do odpływu zlewu kwas siarkowy.
+
+wlałem do odpływu zlewu kwas siarkowy.  
+
 ![kwas siarkowy](chemia_udraznianie.jpg)  
-Do prysznica podłączyłem wąż.
+
+Do prysznica podłączyłem wąż.  
+
 ![pobranie wody](pobranie_wody_z_prysznica.jpg)  
 Na jego końcu umieściłem redukcję fi50.  
 ![redukcja](redukcja_waz_fi50_side.jpg)  .

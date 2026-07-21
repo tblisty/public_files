@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/udraznianie_rury/index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -170,6 +170,7 @@
   },
   "active": "4c0a19bc7f3633a1",
   "lastOpenFiles": [
+    "docs/varia/usterka/zerwanie_pedni_zwrotnicowej_poczatek.md",
     "docs/udraznianie_rury/redukcja_waz_fi50_front1.jpg",
     "docs/varia/usterka/r-142_html_i_e1758.md",
     "docs/udraznianie_rury/index.md",
