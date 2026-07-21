@@ -4,3 +4,4 @@
 [t2](varia/usterka/zerwanie_pedni_t2.md)  
 [t3](varia/usterka/zerwanie_pedni_t3.md)  
 [razem](varia/usterka/r-142_html_i_e1758.md)
+[ust_pedn](varia/usterka/zerwanie_pedni_zwrotnicowej.md)
