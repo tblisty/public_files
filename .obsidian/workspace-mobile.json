@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/varia/usterka/zerwanie_pedni_t2.md",
-                "mode": "source",
+                "file": "docs/udraznianie_rury/index.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "zerwanie_pedni_t2"
+              "title": "index"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/varia/usterka/zerwanie_pedni_zwrotnicowej.md",
+            "file": "docs/udraznianie_rury/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,6 +170,11 @@
   },
   "active": "4c0a19bc7f3633a1",
   "lastOpenFiles": [
+    "docs/udraznianie_rury/redukcja_waz_fi50_front1.jpg",
+    "docs/varia/usterka/r-142_html_i_e1758.md",
+    "docs/udraznianie_rury/index.md",
+    "chem.md",
+    "docs/udraznianie_rury/redukcja_waz_fi50_side.jpg",
     "docs/varia/usterka/zerwanie_pedni_t1.md",
     "docs/varia/usterka/zerwanie_pedni_t2.md",
     "docs/varia/usterka/zerwanie_pedni_zwrotnicowej.md",
