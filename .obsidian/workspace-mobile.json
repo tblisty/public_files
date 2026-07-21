@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/udraznianie_rury/index.md",
-                "mode": "source",
+                "file": "docs/udraznianie_rury/doc.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "doc"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/udraznianie_rury/index.md",
+            "file": "docs/udraznianie_rury/doc.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
     "docs/varia/usterka/zerwanie_pedni_zwrotnicowej_poczatek.md",
     "docs/udraznianie_rury/redukcja_waz_fi50_front1.jpg",
     "docs/varia/usterka/r-142_html_i_e1758.md",
-    "docs/udraznianie_rury/index.md",
+    "docs/udraznianie_rury/doc.md",
     "chem.md",
     "docs/udraznianie_rury/redukcja_waz_fi50_side.jpg",
     "docs/varia/usterka/zerwanie_pedni_t1.md",
