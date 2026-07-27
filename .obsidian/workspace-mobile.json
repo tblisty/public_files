@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/udraznianie_rury/doc.md",
-                "mode": "preview",
-                "source": true
+                "file": "docs/varia/test_przypisow.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "doc"
+              "title": "test_przypisow"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "4c0a19bc7f3633a1",
   "lastOpenFiles": [
+    "docs/varia/test_przypisow.md",
     "docs/varia/usterka/zerwanie_pedni_zwrotnicowej_poczatek.md",
     "docs/udraznianie_rury/redukcja_waz_fi50_front1.jpg",
     "docs/varia/usterka/r-142_html_i_e1758.md",
