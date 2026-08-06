@@ -16,4 +16,3 @@
 - [ ] Solec Wlkp. [Mapa](https://maps.app.goo.gl/rJvgXrbrM4GqnRJH9)
 - [ ] Chocicza [mapa](https://maps.app.goo.gl/f1F99kkpFEMKkXQe7)
 - [ ] Mieszków [mapa](https://maps.app.goo.gl/rjpqXsnBeuwpZ1Mh6)
-- [ ] i 
