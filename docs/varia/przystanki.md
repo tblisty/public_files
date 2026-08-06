@@ -5,7 +5,7 @@
 - [ ] Orzechowo [mapa](https://maps.app.goo.gl/ajG9pgsHHcH71Mdm7)
 - [ ] Miłosław [mapa](https://maps.app.goo.gl/yThGX3PuU9t1CJJb8?g_st=ac)
 - [ ] Książno [mapa](https://maps.app.goo.gl/oh4CrwztmMxzWCkZA?g_st=ac)
-- [ ] Radlin [mapa](https://mapy.com/s/nepebeteke)
+- [ ] Radlin [mapa](https://maps.app.goo.gl/566gvRz3KAHnSWyLA)
 
 ## 272
 
