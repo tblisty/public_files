@@ -15,4 +15,5 @@
 - [ ] Sulęcinek [mapa](https://maps.app.goo.gl/E8LPxjNPpmmALpCq9)
 - [ ] Solec Wlkp. [Mapa](https://maps.app.goo.gl/rJvgXrbrM4GqnRJH9)
 - [ ] Chocicza [mapa](https://maps.app.goo.gl/f1F99kkpFEMKkXQe7)
-- [ ] Mieszków [mapa](https://maps.app.goo.gl/rjpqXsnBeuwpZ1Mh6)
+- [ ] Mieszków [mapa](https://maps.app.goo.gl/rjpqXsnBeuwpZ1Mh6)  
+- [ ] Jarocin [mapa](https://maps.app.goo.gl/Tf3fxkQm8jHBn6k46?g_st=ac)  
