@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- 1. Tło: Prostokąt wypełniający całe płótno 200x200 
+  <rect width="200" height="200" fill="#1e1e2e" />
+
+   2. Koło (środek w X=100, Y=100, promień r=50) 
+  <circle cx="100" cy="100" r="50" fill="#ff79c6" />
+
+   3. Mniejsze koło w środku (efekt pierścienia) 
+  <circle cx="100" cy="100" r="25" fill="#1e1e2e" /> -->
+
+  <!-- Przekątna linia: od lewego górnego do prawego dolnego rogu -->
+  <line x1="100" y1="50" x2="100" y2="200" stroke="#f7f7f4" stroke-width="2" />
+
+  <line x1="10" y1="50" x2="190" y2="50" stroke="#e4e406" stroke-width="2" />
+
+  <!-- ŁUK ELIPSY -->
+  <!-- Używamy PATH, bo ona pozwala na otwarte kształty -->
+  <path d="M 10,50 A 90,40 0 0,1 190,50" 
+        fill="none" 
+        stroke="#f7f7f4" 
+        stroke-width="2" 
+        stroke-linecap="round"/>
+</svg>

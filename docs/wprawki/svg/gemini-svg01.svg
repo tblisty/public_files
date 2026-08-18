@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- 1. Tło: Prostokąt wypełniający całe płótno 200x200 -->
+  <rect width="200" height="200" fill="#1e1e2e" />
+
+  <!-- 2. Koło (środek w X=100, Y=100, promień r=50) -->
+  <circle cx="100" cy="100" r="50" fill="#ff79c6" />
+
+  <!-- 3. Mniejsze koło w środku (efekt pierścienia) -->
+  <circle cx="100" cy="100" r="25" fill="#1e1e2e" />
+</svg>
