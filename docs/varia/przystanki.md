@@ -44,4 +44,11 @@
 - [ ] Środa Wielkopolska [mapa](https://maps.app.goo.gl/ZAyWBmpf6GzpA1B89)
 - [ ] Pierzchno [mapa](https://maps.app.goo.gl/uAudthUh7tMsWRLv7)
 - [ ] Kórnik [mapa](https://maps.app.goo.gl/MNz5SgcPGAUddHJ27)
-  
+
+## 815
+
+- 163
+
+## 816
+
+- Osusz
