@@ -7,6 +7,10 @@
 - [ ] Książno [mapa](https://maps.app.goo.gl/oh4CrwztmMxzWCkZA?g_st=ac)
 - [ ] Radlin [mapa](https://maps.app.goo.gl/566gvRz3KAHnSWyLA)
 
+- [ ] Wolenice [lokalizacja](https://www.google.com/maps?q=51.7641726,17.4371139)
+
+- [ ] Bożacin [lokalizacja](https://www.google.com/maps?q=51.7331566,17.4339455)
+
 - [ ] Krotoszyn [lokalizacja](https://www.google.com/maps?q=51.7010248,17.4262962)
 - [ ] Zduny  [lokalizacja](https://www.google.com/maps?q=51.6464674,17.3664511)
 
