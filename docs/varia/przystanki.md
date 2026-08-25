@@ -7,6 +7,9 @@
 - [ ] Książno [mapa](https://maps.app.goo.gl/oh4CrwztmMxzWCkZA?g_st=ac)
 - [ ] Radlin [mapa](https://maps.app.goo.gl/566gvRz3KAHnSWyLA)
 
+- [ ] Krotoszyn [lokalizacja](https://www.google.com/maps?q=51.7010248,17.4262962)
+- [ ] Zduny
+
 ## 272
 
 - [ ] Kórnik [mapa](https://maps.app.goo.gl/MNz5SgcPGAUddHJ27)
