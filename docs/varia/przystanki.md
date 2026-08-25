@@ -2,16 +2,15 @@
 
 ## 14
 
-- [ ] Kobylin [lokalizacja](https://www.google.com/maps?q=51.83209857020619,17.444002843440234)  51.83209857020619, 17.444002843440234
-- [ ] Kuklinów [lokalizacja](https://www.google.com/maps?q=51.83209857020619,17.444002843440234)  51.83209857020619, 17.444002843440234
-- [ ] Dzierżanów Wielkopolski [lokalizacja](https://www.google.com/maps?q=51.83209857020619,17.444002843440234)  51.83209857020619, 17.444002843440234
-- [ ] Krotoszyn [lokalizacja](https://www.google.com/maps?q=51.83209857020619,17.444002843440234)  51.83209857020619, 17.444002843440234
-- [ ] Gorzupia [lokalizacja](https://www.google.com/maps?q=51.83209857020619,17.444002843440234)  51.83209857020619, 17.444002843440234
-- [ ] Biadki [lokalizacja](https://www.google.com/maps?q=51.83209857020619,17.444002843440234)  51.83209857020619, 17.444002843440234
-- [ ] Daniszyn [lokalizacja](https://www.google.com/maps?q=51.83209857020619,17.444002843440234)  51.83209857020619, 17.444002843440234
-- [ ] Łąkociny [lokalizacja](https://www.google.com/maps?q=51.83209857020619,17.444002843440234)  51.83209857020619, 17.444002843440234
-- [ ] Ostrów Wielkopolski Gorzyce [lokalizacja](https://www.google.com/maps?q=51.83209857020619,17.444002843440234)  51.83209857020619, 17.444002843440234
-
+- [ ] Kobylin [lokalizacja](https://www.google.com/maps?q=51.719785150765624,17.224077835122124)  51.719785150765624, 17.224077835122124
+- [ ] Kuklinów [lokalizacja](https://www.google.com/maps?q=51.719268874435514,17.31902988161211)  51.719268874435514, 17.31902988161211
+- [ ] Dzierżanów Wielkopolski [lokalizacja](https://www.google.com/maps?q=51.71219355016188,17.353672431741693)  51.71219355016188, 17.353672431741693
+- [ ] Krotoszyn [lokalizacja](https://www.google.com/maps?q=51.70105839475373,17.426212179660155)  51.70105839475373, 17.426212179660155
+- [ ] Gorzupia [lokalizacja](https://www.google.com/maps?q=51.691905898855225,17.50412360452282)  51.691905898855225, 17.50412360452282
+- [ ] Biadki [lokalizacja](https://www.google.com/maps?q=51.676800030594585,17.567485414634294)  51.676800030594585, 17.567485414634294
+- [ ] Daniszyn [lokalizacja](https://www.google.com/maps?q=51.667517349412755,17.61433006001239)  51.667517349412755, 17.61433006001239
+- [ ] Łąkociny [lokalizacja](https://www.google.com/maps?q=51.657012013758965,17.668798367138724)  51.657012013758965, 17.668798367138724
+- [ ] Ostrów Wielkopolski Gorzyce [lokalizacja](https://www.google.com/maps?q=51.64770598823915,17.729871934089825)  51.64770598823915, 17.729871934089825
 
 ## 281
 - [ ] Zduny  [lokalizacja](https://www.google.com/maps?q=51.6464674,17.3664511)
@@ -27,7 +26,6 @@
 - [ ] Orzechowo [mapa](https://maps.app.goo.gl/ajG9pgsHHcH71Mdm7)
 - [ ] Miłosław [mapa](https://maps.app.goo.gl/yThGX3PuU9t1CJJb8?g_st=ac)
 - [ ] Książno [mapa](https://maps.app.goo.gl/oh4CrwztmMxzWCkZA?g_st=ac)
-
 
 ## 272
 
@@ -46,5 +44,4 @@
 - [ ] Środa Wielkopolska [mapa](https://maps.app.goo.gl/ZAyWBmpf6GzpA1B89)
 - [ ] Pierzchno [mapa](https://maps.app.goo.gl/uAudthUh7tMsWRLv7)
 - [ ] Kórnik [mapa](https://maps.app.goo.gl/MNz5SgcPGAUddHJ27)
-
-
+  
