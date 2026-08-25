@@ -8,7 +8,7 @@
 - [ ] Radlin [mapa](https://maps.app.goo.gl/566gvRz3KAHnSWyLA)
 
 - [ ] Krotoszyn [lokalizacja](https://www.google.com/maps?q=51.7010248,17.4262962)
-- [ ] Zduny
+- [ ] Zduny  [lokalizacja](https://www.google.com/maps?q=51.6464674,17.3664511)
 
 ## 272
 
