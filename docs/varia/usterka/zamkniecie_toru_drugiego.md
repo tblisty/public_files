@@ -18,6 +18,8 @@
 
 8. "Przygotować wyjazd pociągu 12344 do Białej z toru drugiego".
 
-
+> (...) Przy zgłoszeniu o przygotowaniu drogi przebiegu należy podać dyżurnemu ruchu:
+> 1) położenie poszczególnych zwrotnic i wykolejnic - wchodzących w przebieg oraz ochronnych - jeżeli jazda pociągu ma odbywać się po drodze przebiegu nie uzależnionej od wskazań semafora (na sygnał zastępczy lub rozkaz pisemny) lub zastosowanie innych zabezpieczeń (...)
+> (Ir-1, par. 41, ust. 6)
 
 9. "Wyjazd dla 12344 do Białej z drugiego przygotowany. 
