@@ -22,4 +22,13 @@
 > 1) położenie poszczególnych zwrotnic i wykolejnic - wchodzących w przebieg oraz ochronnych - jeżeli jazda pociągu ma odbywać się po drodze przebiegu nie uzależnionej od wskazań semafora (na sygnał zastępczy lub rozkaz pisemny) lub zastosowanie innych zabezpieczeń (...)
 > (Ir-1, par. 41, ust. 6)
 
-9. "Wyjazd dla 12344 do Białej z drugiego przygotowany. 
+9. "Wyjazd dla 12344 do Białej z drugiego przygotowany o 8:15. Położenie zwrotnic i wykolejnicy: 1 plus, 2 plus, 3 plus, 4 minus, 5 plus, 6 minus, 7 plus, wykolejnica nałożona, rogatki zamknięte.
+
+> 2+, 3+, 4-, 6-*, 7+, 1+o, 5+o, Wk1 nałożona
+> * - W przypadku wyjazdu pociągów pasażerskich rozjazd nr 6 należy zamknąć zamkiem zwrotnicowym lub sponą iglicową.
+
+10. Może jechać 8:19. RD[^2]
+
+[^2]: RD - oznacza rozkaz pisemny drukowany
+
+11. Dojechał 8:30. 
