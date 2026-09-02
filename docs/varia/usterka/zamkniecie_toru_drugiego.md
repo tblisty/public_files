@@ -1,2 +1,11 @@
-
 # Zamknięcie toru drugiego
+
+1. Godz. 8:00 tor szlakowy nr 2 z Dubna do Białej zamknięty z powodu wymiany wadliwych szyn. Nadał, odebrał, godz. 8:01
+
+2. Godz. 8:02 wprowadzam ruch jednotorowy dwukierunkowy po torze nr 1 pomiędzy Dubnem i Białą. Nadał, odebrał, godz. 8:03
+
+3. (Stosuje się telefoniczne zapowiadanie pociągów)
+
+4. Godz. 8:04 wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wjeżdżających z Białej do Dubna oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2. Nadał, odebrał, godz. 8:04.
+
+5. Zgoda na zerwanie plomby z zamka trzpieniowego i wyjście w tory celem założenia go w rozjeździe nr 6 oraz wystawienie tarczy D1 w zamkniętym torze nr 2
