@@ -13,3 +13,11 @@
 [^1]: W przypadku zamknięcia toru tarczę D1 ustawia się w jego osi.
 
 6. Godz. 8:14 powrót na nastawnię. Zamek trzpieniowy w rozjeździe nr 6 założony. Tarcza D1 wystawiona w torze nr 2. Nadał, odebrał, godz. 8:14.
+
+7. "12344 z Krowicy na tor drugi"
+
+8. "Przygotować wyjazd pociągu 12344 do Białej z toru drugiego".
+
+
+
+9. "Wyjazd dla 12344 do Białej z drugiego przygotowany. 
