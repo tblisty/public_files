@@ -1,3 +1,5 @@
+[↑ W górę](./index.md)
+
 # Przystanki
 
 ## 14
