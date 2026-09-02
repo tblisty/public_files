@@ -8,4 +8,8 @@
 
 4. Godz. 8:04 wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wjeżdżających z Białej do Dubna oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2. Nadał, odebrał, godz. 8:04.
 
-5. Zgoda na zerwanie plomby z zamka trzpieniowego i wyjście w tory celem założenia go w rozjeździe nr 6 oraz wystawienie tarczy D1 w zamkniętym torze nr 2
+5. Zgoda na zerwanie plomby z zamka trzpieniowego i wyjście w tory celem założenia go w rozjeździe nr 6 oraz wystawienie tarczy D1 w zamkniętym torze nr 2[^1]. Nadał, odebrał, godz. 8:05.
+
+[^1]: W przypadku zamknięcia toru tarczę D1 ustawia się w jego osi.
+
+6. Godz. 8:14 powrót na nastawnię. Zamek trzpieniowy w rozjeździe nr 6 założony. Tarcza D1 wystawiona w torze nr 2. Nadał, odebrał, godz. 8:14.
