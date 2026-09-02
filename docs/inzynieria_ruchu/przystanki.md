@@ -2,7 +2,7 @@
 
 # Przystanki
 
-## 14
+## 14 (Łódź Kaliska - Tuplice)
 
 - [ ] Kobylin [lokalizacja](https://www.google.com/maps?q=51.719785150765624,17.224077835122124)  51.719785150765624, 17.224077835122124
 - [ ] Kuklinów [lokalizacja](https://www.google.com/maps?q=51.719268874435514,17.31902988161211)  51.719268874435514, 17.31902988161211
@@ -30,7 +30,7 @@
 - [ ] Miłosław [mapa](https://maps.app.goo.gl/yThGX3PuU9t1CJJb8?g_st=ac)
 - [ ] Książno [mapa](https://maps.app.goo.gl/oh4CrwztmMxzWCkZA?g_st=ac)
 
-## 272
+## 272 (Kluczbork - Poznań Główny)
 
 - [ ] Ostrów Wielkopolski [lokalizacja](https://www.google.com/maps?q=51.649241974766525,17.805809320074648)  51.649241974766525, 17.805809320074648
 - [ ] Biniew [lokalizacja](https://www.google.com/maps?q=51.73980871867566,17.792556145755775)  51.73980871867566, 17.792556145755775
