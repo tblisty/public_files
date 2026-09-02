@@ -25,7 +25,7 @@
 9. "Wyjazd dla 12344 do Białej z drugiego przygotowany o 8:15. Położenie zwrotnic i wykolejnicy: 1 plus, 2 plus, 3 plus, 4 minus, 5 plus, 6 minus, 7 plus, wykolejnica nałożona, rogatki zamknięte.
 
 > 2+, 3+, 4-, 6-*, 7+, 1+o, 5+o, Wk1 nałożona
-> * - W przypadku wyjazdu pociągów pasażerskich rozjazd nr 6 należy zamknąć zamkiem zwrotnicowym lub sponą iglicową.
+> \* - W przypadku wyjazdu pociągów pasażerskich rozjazd nr 6 należy zamknąć zamkiem zwrotnicowym lub sponą iglicową.
 
 10. Może jechać 8:19. RD[^2]
 
