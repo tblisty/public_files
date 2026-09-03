@@ -364,6 +364,11 @@
     <td>Wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wjeżdżających od Białej do Dubna oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.<br><span style="text-align: right; display: block; width: 100%; margin: 0; padding: 0;">Nadał nast. Malinowski<br>Odebrał ISEDR Kowalski</span></td>
     <td></td>
   </tr>
+  <tr>
+    <td style="vertical-align: top;">03.09.2026<br>godz. 8<sup>05</sup></td>
+    <td>Polecam zerwać plombę z zamka trzpieniowego celem zabezpieczenia nim rozjazdu nr 6.<br><span style="text-align: right; display: block; width: 100%; margin: 0; padding: 0;">Nadał nast. Malinowski<br>Odebrał ISEDR Kowalski</span></td>
+    <td></td>
+  </tr>
 </table>
 
 Objaw: luźna linka i wykleszczeniu
