@@ -371,6 +371,9 @@
   </tr>
 </table>
 
+---
+---
+---
 Objaw: luźna linka i wykleszczeniu
 
 ## 1. Wpis w E-1758 i zgłoszenie
