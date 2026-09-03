@@ -463,7 +463,94 @@
   </tr>
 </table>
 
-## 6. Wyjazd z toru drugiego na tor nr jeden
+## 6. Z Krowicy do Białej
+
+### Wjazd
+
+> 12344 z Krowicy na tor drugi
+
+#### R-142
+
+<table class="szeroka-tabela" border="2">
+  <tr>
+    <th colspan="3" style="text-align: center;">Przygotować wjazd</th>
+    <th colspan="3" style="text-align: center;">Wjazd przygotowany<br>(tor wolny)</th>
+    <th colspan="2" style="text-align: center;">Dać sygn.<br>zezwalający<br>na<br>semaforze<br>wjazdowym</th>
+    <th colspan="2" style="text-align: center;">Pociąg<br>wjechał</th>
+    <th rowspan="2" style="border-right: 3px double;">Uwagi</th>
+    <th colspan="3" style="text-align: center;">Przygotować wyjazd</th>
+    <th colspan="3" style="text-align: center;">Wyjazd przygotowany <br>(tor wolny)</th>
+    <th colspan="2" style="text-align: center;">Dać sygn. <br>zezwalający <br>na semafo-<br>rze wyjaz-<br>dowym</th>
+    <th colspan="2" style="text-align: center;">Pociąg<br>wyjechał</th>
+    <th rowspan="2" style="text-align: center;">Uwagi</th>
+  </tr>
+  <tr>
+    <th>pociągu<br>nr</th>
+    <th>z (skrót sąsiedn. poster. zapow.)</th>
+    <th>na tor</th>
+    <th>w okręgu</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>pociągu<br>nr</th>
+    <th>do (skrót sąsiedn. poster. zapow.)</th>
+    <th>z toru</th>
+    <th>w okręgu</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+  </tr>
+  <tr>
+    <th style="text-align: center;">1</th>
+    <th style="text-align: center;">2</th>
+    <th style="text-align: center;">3</th>
+    <th style="text-align: center;">4</th>
+    <th colspan="2" style="text-align: center;">5</th>
+    <th colspan="2" style="text-align: center;">6</th>
+    <th colspan="2" style="text-align: center;">7</th>
+    <th style="text-align: center; border-right: 3px double;">8</th>
+    <th style="text-align: center;">1</th>
+    <th style="text-align: center;">2</th>
+    <th style="text-align: center;">3</th>
+    <th style="text-align: center;">4</th>
+    <th colspan="2" style="text-align: center;">5</th>
+    <th colspan="2" style="text-align: center;">6</th>
+    <th colspan="2" style="text-align: center;">7</th>
+    <th style="text-align: center;">8</th>
+  </tr>
+  <tr>
+      <td>12344</td><!-- nr pociągu -->
+      <td>Cz</td><!-- z -->
+      <td>4</td><!-- na tor -->
+      <td></td><!-- wjazd przygotowany w okręgu-->
+      <td></td><!-- wjazd przygotowany godz.-->
+      <td></td><!-- wjazd przygotowany min.-->
+      <td></td><!-- dać sygn. zezw. wj. godz.-->
+      <td></td><!-- dać sygn. zezw. wj. min.-->
+      <td>6</td><!-- p. wjechał godz. -->
+      <td>31</td><!-- p. wjechał min.-->
+      <td style="border-right: 3px double;" class="tylko-reczne-lamanie"></td><!-- uwagi -->
+      <td>4763</td><!-- nr pociągu -->
+      <td>Cz</td><!-- do -->
+      <td>3</td><!-- z toru -->
+      <td></td><!-- wyjazd przygotowany w okręgu-->
+      <td></td><!-- wyjazd przygotowany godz.-->
+      <td></td><!-- wyjazd przygotowany min.-->
+      <td></td><!-- dać sygn. zezw. wyj. godz.-->
+      <td></td><!-- dać sygn. zezw. wyj. min.-->
+      <td>6</td><!-- p. wyjechał godz. -->
+      <td>28</td><!-- p. wyjechał min.-->
+      <td class="tylko-reczne-lamanie"></td><!-- uwagi -->
+    </tr>
+</table>
+
+Wyjazd z toru drugiego na tor nr jeden
 
 > Przygotować wyjazd pociągu 12344 z toru drugiego do Białej po torze nr 1  
 
@@ -471,7 +558,6 @@
 > (...) Przy zgłoszeniu o przygotowaniu drogi przebiegu należy podać dyżurnemu ruchu:
 > 1) położenie poszczególnych zwrotnic i wykolejnic - wchodzących w przebieg oraz ochronnych - jeżeli jazda pociągu ma odbywać się po drodze przebiegu nie uzależnionej od wskazań semafora (na sygnał zastępczy lub rozkaz pisemny) lub zastosowanie innych zabezpieczeń (...)
 > (Ir-1, par. 41, ust. 6)
-
 
 <table class="szeroka-tabela" border="2">
   <tr>
@@ -561,6 +647,30 @@
     <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał nast. Malinowski,</td>
     <td colspan="11" style="text-align: center; border-right: 3px double;">odebrał ISEDR Kowalski, godz. 8<sup>14</sup>.</td>
   </tr>
+  <tr>
+      <td>12344</td><!-- nr pociągu -->
+      <td>Cz</td><!-- z -->
+      <td>4</td><!-- na tor -->
+      <td></td><!-- wjazd przygotowany w okręgu-->
+      <td></td><!-- wjazd przygotowany godz.-->
+      <td></td><!-- wjazd przygotowany min.-->
+      <td></td><!-- dać sygn. zezw. wj. godz.-->
+      <td></td><!-- dać sygn. zezw. wj. min.-->
+      <td>6</td><!-- p. wjechał godz. -->
+      <td>31</td><!-- p. wjechał min.-->
+      <td style="border-right: 3px double;" class="tylko-reczne-lamanie"></td><!-- uwagi -->
+      <td>4763</td><!-- nr pociągu -->
+      <td>Cz</td><!-- do -->
+      <td>3</td><!-- z toru -->
+      <td></td><!-- wyjazd przygotowany w okręgu-->
+      <td></td><!-- wyjazd przygotowany godz.-->
+      <td></td><!-- wyjazd przygotowany min.-->
+      <td></td><!-- dać sygn. zezw. wyj. godz.-->
+      <td></td><!-- dać sygn. zezw. wyj. min.-->
+      <td>6</td><!-- p. wyjechał godz. -->
+      <td>28</td><!-- p. wyjechał min.-->
+      <td class="tylko-reczne-lamanie"></td><!-- uwagi -->
+    </tr>
 </table>
 
 ---
