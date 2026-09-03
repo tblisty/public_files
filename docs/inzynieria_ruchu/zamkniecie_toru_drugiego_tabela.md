@@ -5,8 +5,7 @@
 
 ## 1. Zgłoszenie i wpis w R-142
 
-
-<table class="szeroka-tabela" border="1">
+<table class="szeroka-tabela" border="2">
   <tr>
     <th colspan="3" style="text-align: center;">Przygotować wjazd</th>
     <th colspan="3" style="text-align: center;">Wjazd przygotowany<br>(tor wolny)</th>
@@ -60,12 +59,100 @@
         <th style="text-align: center;">8</th>
     </tr>
   <tr>
-    <td colspan="22">O godz. 11<sup>04</sup> wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu dla pociągów wyjeżdżających do Białej na tor nr 2 z powodu pęknięcia pędni zwrotnicowej w rozjeździe nr 1.</td>
+    <td colspan="22">O godz. 8<sup>00</sup> tor szlakowy nr 2 z Dubna do Białej zamknięty z powodu wymiany wadliwych szyn.</td>
   </tr>
   <tr>
-    <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał ISEDR Kowalski</td>
-    <td colspan="11" style="text-align: center; border-right: 3px double;">Odebrał nast. Malinowski, godz. 11<sup>05</sup>.</td>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał ISEDR Kowalski,</td>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">odebrał nast. Malinowski, godz. 8<sup>01</sup>.</td>
   </tr>
+</table>
+
+## 2. Ruch dwutorowy dwukierunkowy po torze nr 1
+
+### R-142
+
+<table class="szeroka-tabela" border="2">
+  <tr>
+    <th colspan="3" style="text-align: center;">Przygotować wjazd</th>
+    <th colspan="3" style="text-align: center;">Wjazd przygotowany<br>(tor wolny)</th>
+    <th colspan="2" style="text-align: center;">Dać sygn.<br>zezwalający<br>na<br>semaforze<br>wjazdowym</th>
+    <th colspan="2" style="text-align: center;">Pociąg<br>wjechał</th>
+    <th rowspan="2" style="border-right: 3px double;">Uwagi</th>
+    <th colspan="3" style="text-align: center;">Przygotować wyjazd</th>
+    <th colspan="3" style="text-align: center;">Wyjazd przygotowany <br>(tor wolny)</th>
+    <th colspan="2" style="text-align: center;">Dać sygn. <br>zezwalający <br>na semafo-<br>rze wyjaz-<br>dowym</th>
+    <th colspan="2" style="text-align: center;">Pociąg<br>wyjechał</th>
+    <th rowspan="2" style="text-align: center;">Uwagi</th>
+  </tr>
+  <tr>
+    <th>pociągu<br>nr</th>
+    <th>z (skrót sąsiedn. poster. zapow.)</th>
+    <th>na tor</th>
+    <th>w okręgu</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>pociągu<br>nr</th>
+    <th>do (skrót sąsiedn. poster. zapow.)</th>
+    <th>z toru</th>
+    <th>w okręgu</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    </tr>
+    <tr>
+        <th style="text-align: center;">1</th>
+        <th style="text-align: center;">2</th>
+        <th style="text-align: center;">3</th>
+        <th style="text-align: center;">4</th>
+        <th colspan="2" style="text-align: center;">5</th>
+        <th colspan="2" style="text-align: center;">6</th>
+        <th colspan="2" style="text-align: center;">7</th>
+        <th style="text-align: center; border-right: 3px double;">8</th>
+        <th style="text-align: center;">1</th>
+        <th style="text-align: center;">2</th>
+        <th style="text-align: center;">3</th>
+        <th style="text-align: center;">4</th>
+        <th colspan="2" style="text-align: center;">5</th>
+        <th colspan="2" style="text-align: center;">6</th>
+        <th colspan="2" style="text-align: center;">7</th>
+        <th style="text-align: center;">8</th>
+    </tr>
+  <tr>
+    <td colspan="22">O godz. 8<sup>00</sup> tor szlakowy nr 2 z Dubna do Białej zamknięty z powodu wymiany wadliwych szyn.</td>
+  </tr>
+  <tr>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał ISEDR Kowalski,</td>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">odebrał nast. Malinowski, godz. 8<sup>01</sup>.</td>
+  </tr>
+  <tr>
+    <td colspan="22">O godz. 8<sup>02</sup> wprowadzam ruch jednotorowy dwukierunkowy po torze nr 1 pomiędzy Dubnem i Białą.</td>
+  </tr>
+  <tr>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał ISEDR Kowalski,</td>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">odebrał nast. Malinowski, godz. 8<sup>03</sup>.</td>
+  </tr>
+</table>
+
+### E-1758
+
+<table>
+  <tr>
+    <th>Data i godzina</th>
+    <th>Rodzaj przeszkody lub uszkodzenia, przyczyny ich powstania, roboty związane z ich usunięciem, zdjęciem i założeniem plomb, wprowadzenie i odwołanie obostrzeń</th>
+    <th>Uwagi organu nadzorczego</th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">03.09.2026<br>godz. 8<sup>02</sup></td>
+    <td>Wprowadzam ruch jednotorowy dwukierunkowy po torze nr 1 pomiędzy Dubnem i Białą z powodu zamknięcia toru szlakowego nr 2.<br><span style="text-align: right; display: block; width: 100%; margin: 0; padding: 0;">Nadał nast. Malinowski<br>Odebrał ISEDR Kowalski</span></td>
+    <td></td>
+    </tr>
 </table>
 
 

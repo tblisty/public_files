@@ -2,7 +2,7 @@
 # Inżynieria ruchu
 
 [Przystanki Jarocin](./przystanki.md)  
-[Zamknięcie toru nr 2](varia/usterka/zerwanie_pedni_t2.md)
+[Zamknięcie toru nr 2](./zamkniecie_toru_drugiego_tabela.md)
 
 
 
