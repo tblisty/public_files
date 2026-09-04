@@ -757,7 +757,7 @@ Dyżurny ruchu:
     <th>g.</th>
     <th>m.</th>
     <th>pociągu<br>nr</th>
-    <th>do (skrót sąsiedn. poster. zapow.)</th>
+    <th style="text-align: center;">do (skrót<br>sąsiedn. poster.<br>zapow.)</th>
     <th>z toru</th>
     <th>w okręgu</th>
     <th>g.</th>
