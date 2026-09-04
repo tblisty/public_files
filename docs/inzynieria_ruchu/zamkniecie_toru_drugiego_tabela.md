@@ -1758,8 +1758,7 @@ Dyżurny ruchu:
     <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał nast. Malinowski,</td>
     <td colspan="11" style="text-align: center; border-right: 3px double;">odebrał ISEDR Kowalski, godz. 8<sup>56</sup>.</td>
   </tr>
-  <! -- Wiersz tabeli dla zwykłego pociągu -->
-  <tr>
+  <tr><! -- Wiersz tabeli dla zwykłego pociągu -->
     <td style="text-align: center;">213445</td><!-- nr pociągu -->
     <td style="text-align: center;">Bi</td><!-- z -->
     <td style="text-align: center;">1</td><!-- na tor -->
