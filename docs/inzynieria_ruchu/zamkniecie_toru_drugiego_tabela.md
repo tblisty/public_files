@@ -1,7 +1,7 @@
 
 <link rel="stylesheet" href="./style.css">  
 
-# Zamknięcie toru drugiego
+# Zamknięcie toru drugiego z punktu widzenia nastawni wykonawczej
 
 ## 1. Zgłoszenie i wpis w R-142
 
@@ -467,7 +467,8 @@
 
 ### Wjazd
 
-> 12344 z Krowicy na tor drugi
+Dyżurny ruchu:  
+> 12344 z Krowicy na tor drugi.
 
 #### R-142
 
@@ -525,33 +526,34 @@
     <th style="text-align: center;">8</th>
   </tr>
   <tr>
-      <td>12344</td><!-- nr pociągu -->
-      <td>Cz</td><!-- z -->
-      <td>4</td><!-- na tor -->
-      <td></td><!-- wjazd przygotowany w okręgu-->
-      <td></td><!-- wjazd przygotowany godz.-->
-      <td></td><!-- wjazd przygotowany min.-->
-      <td></td><!-- dać sygn. zezw. wj. godz.-->
-      <td></td><!-- dać sygn. zezw. wj. min.-->
-      <td>6</td><!-- p. wjechał godz. -->
-      <td>31</td><!-- p. wjechał min.-->
+      <td style="text-align: center;">12344</td><!-- nr pociągu -->
+      <td style="text-align: center;">Kr</td><!-- z -->
+      <td style="text-align: center;">2</td><!-- na tor -->
+      <td style="text-align: center;"></td><!-- wjazd przygotowany w okręgu-->
+      <td style="text-align: center;">8</td><!-- wjazd przygotowany godz.-->
+      <td style="text-align: center;">20</td><!-- wjazd przygotowany min.-->
+      <td style="text-align: center;">-</td><!-- dać sygn. zezw. wj. godz.-->
+      <td style="text-align: center;">-</td><!-- dać sygn. zezw. wj. min.-->
+      <td style="text-align: center;">-</td><!-- p. wjechał godz. -->
+      <td style="text-align: center;">-</td><!-- p. wjechał min.-->
       <td style="border-right: 3px double;" class="tylko-reczne-lamanie"></td><!-- uwagi -->
-      <td>4763</td><!-- nr pociągu -->
-      <td>Cz</td><!-- do -->
-      <td>3</td><!-- z toru -->
+      <td style="text-align: center;"></td><!-- nr pociągu -->
+      <td style="text-align: center;"></td><!-- do -->
+      <td style="text-align: center;"></td><!-- z toru -->
       <td></td><!-- wyjazd przygotowany w okręgu-->
       <td></td><!-- wyjazd przygotowany godz.-->
       <td></td><!-- wyjazd przygotowany min.-->
       <td></td><!-- dać sygn. zezw. wyj. godz.-->
       <td></td><!-- dać sygn. zezw. wyj. min.-->
-      <td>6</td><!-- p. wyjechał godz. -->
-      <td>28</td><!-- p. wyjechał min.-->
+      <td></td><!-- p. wyjechał godz. -->
+      <td></td><!-- p. wyjechał min.-->
       <td class="tylko-reczne-lamanie"></td><!-- uwagi -->
     </tr>
 </table>
 
-Wyjazd z toru drugiego na tor nr jeden
+### Wyjazd z toru drugiego na tor nr jeden
 
+Dyżurny ruchu:
 > Przygotować wyjazd pociągu 12344 z toru drugiego do Białej po torze nr 1  
 
 > [!TIP]  
