@@ -2136,4 +2136,28 @@ Dyżurny ruchu:
     <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał nast. Malinowski,</td>
     <td colspan="11" style="text-align: center; border-right: 3px double;">odebrał ISEDR Kowalski, godz. 10<sup>07</sup>.</td>
   </tr>
+  <tr><! -- Wiersz tabeli dla zwykłego pociągu -->
+    <td style="text-align: center;">Rob. 1</td><!-- nr pociągu -->
+    <td style="text-align: center;">Bi</td><!-- z -->
+    <td style="text-align: center;">1</td><!-- na tor -->
+    <td style="text-align: center;"></td><!-- wjazd przygotowany w okręgu-->
+    <td style="text-align: center;">10</td><!-- wjazd przygotowany godz.-->
+    <td style="text-align: center;">09</td><!-- wjazd przygotowany min.-->
+    <td style="text-align: center;">-</td><!-- dać sygn. zezw. wj. godz.-->
+    <td style="text-align: center;">-</td><!-- dać sygn. zezw. wj. min.-->
+    <td style="text-align: center;"></td><!-- p. wjechał godz. -->
+    <td style="text-align: center;"></td><!-- p. wjechał min.-->
+    <td style="border-right: 3px double;" class="tylko-reczne-lamanie"></td><!-- uwagi -->
+    <td style="text-align: center;">-</td><!-- nr pociągu -->
+    <td style="text-align: center;">-</td><!-- do -->
+    <td style="text-align: center;">-</td><!-- z toru -->
+    <td style="text-align: center;"></td><!-- wyjazd przygotowany w okręgu-->
+    <td style="text-align: center;">-</td><!-- wyjazd przygotowany godz.-->
+    <td style="text-align: center;">-</td><!-- wyjazd przygotowany min.-->
+    <td style="text-align: center;">-</td><!-- dać sygn. zezw. wyj. godz.-->
+    <td style="text-align: center;">-</td><!-- dać sygn. zezw. wyj. min.-->
+    <td style="text-align: center;">-</td><!-- p. wyjechał godz. -->
+    <td style="text-align: center;">-</td><!-- p. wyjechał min.-->
+    <td class="tylko-reczne-lamanie"></td><!-- uwagi -->
+  </tr>
 </table>
