@@ -1784,3 +1784,186 @@ Dyżurny ruchu:
     <td class="tylko-reczne-lamanie"></td><!-- uwagi -->
   </tr>
 </table>
+
+## 9. Powrót pociągu roboczego na stację z zamkniętego toru nr 2
+
+### 1. Zdjęcie tarczy D1 z toru nr 2
+
+
+##### R-142
+
+<table class="szeroka-tabela" border="2">
+  <tr>
+    <th colspan="3" style="text-align: center;">Przygotować wjazd</th>
+    <th colspan="3" style="text-align: center;">Wjazd przygotowany<br>(tor wolny)</th>
+    <th colspan="2" style="text-align: center;">Dać sygn.<br>zezwalający<br>na<br>semaforze<br>wjazdowym</th>
+    <th colspan="2" style="text-align: center;">Pociąg<br>wjechał</th>
+    <th rowspan="2" style="border-right: 3px double;">Uwagi</th>
+    <th colspan="3" style="text-align: center;">Przygotować wyjazd</th>
+    <th colspan="3" style="text-align: center;">Wyjazd przygotowany <br>(tor wolny)</th>
+    <th colspan="2" style="text-align: center;">Dać sygn. <br>zezwalający <br>na semafo-<br>rze wyjaz-<br>dowym</th>
+    <th colspan="2" style="text-align: center;">Pociąg<br>wyjechał</th>
+    <th rowspan="2" style="text-align: center;">Uwagi</th>
+  </tr>
+  <tr>
+    <th>pociągu<br>nr</th>
+    <th style="text-align: center;">z (skrót<br>sąsiedn. poster.<br>zapow.)</th>
+    <th>na tor</th>
+    <th>w okręgu</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>pociągu<br>nr</th>
+    <th style="text-align: center;">do (skrót<br>sąsiedn. poster.<br>zapow.)</th>
+    <th>z toru</th>
+    <th>w okręgu</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+  </tr>
+  <tr>
+    <th style="text-align: center;">1</th>
+    <th style="text-align: center;">2</th>
+    <th style="text-align: center;">3</th>
+    <th style="text-align: center;">4</th>
+    <th colspan="2" style="text-align: center;">5</th>
+    <th colspan="2" style="text-align: center;">6</th>
+    <th colspan="2" style="text-align: center;">7</th>
+    <th style="text-align: center; border-right: 3px double;">8</th>
+    <th style="text-align: center;">1</th>
+    <th style="text-align: center;">2</th>
+    <th style="text-align: center;">3</th>
+    <th style="text-align: center;">4</th>
+    <th colspan="2" style="text-align: center;">5</th>
+    <th colspan="2" style="text-align: center;">6</th>
+    <th colspan="2" style="text-align: center;">7</th>
+    <th style="text-align: center;">8</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">12344</td><!-- nr pociągu -->
+    <td style="text-align: center;">Kr</td><!-- z -->
+    <td style="text-align: center;">2</td><!-- na tor -->
+    <td style="text-align: center;"></td><!-- wjazd przygotowany w okręgu-->
+    <td style="text-align: center;">8</td><!-- wjazd przygotowany godz.-->
+    <td style="text-align: center;">20</td><!-- wjazd przygotowany min.-->
+    <td style="text-align: center;">-</td><!-- dać sygn. zezw. wj. godz.-->
+    <td style="text-align: center;">-</td><!-- dać sygn. zezw. wj. min.-->
+    <td style="text-align: center;">-</td><!-- p. wjechał godz. -->
+    <td style="text-align: center;">-</td><!-- p. wjechał min.-->
+    <td style="border-right: 3px double;" class="tylko-reczne-lamanie"></td><!-- uwagi -->
+    <td style="text-align: center;">12344</td><!-- nr pociągu -->
+    <td style="text-align: center;">Bi</td><!-- do -->
+    <td style="text-align: center;">2</td><!-- z toru -->
+    <td style="text-align: center;"></td><!-- wyjazd przygotowany w okręgu-->
+    <td style="text-align: center;">8</td><!-- wyjazd przygotowany godz.-->
+    <td style="text-align: center;">23</td><!-- wyjazd przygotowany min.-->
+    <td style="text-align: center;">-</td><!-- dać sygn. zezw. wyj. godz.-->
+    <td style="text-align: center;">-</td><!-- dać sygn. zezw. wyj. min.-->
+    <td style="text-align: center;">8</td><!-- p. wyjechał godz. -->
+    <td style="text-align: center;">27</td><!-- p. wyjechał min.-->
+    <td class="tylko-reczne-lamanie">Położenie rozjazdów:<br> 1 plus, 2 plus, 3 plus,<br> 4 minus, 5 plus, 6 minus,<br> 7 plus, Wk1 nałożona,<br> rogatki zamknięte.<br> Może jechać na tor lewy<br> nr 1 o g. 8<sup>24</sup>. RD.<br>Dojechał do Białej o g. 8<sup>35</sup>.</td><!-- uwagi -->
+  </tr>
+  <tr>
+    <td colspan="22">O godz. 8<sup>40</sup>polecam wyjście w tory celem zdjęcia tarczy D1 z zamkniętego toru nr 2.</td>
+  </tr>
+  <tr>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał ISEDR Kowalski,</td>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">odebrał nast. Malinowski, godz. 8<sup>40</sup>.</td>
+  </tr>
+    <tr>
+    <td colspan="22">O godz. 8<sup>45</sup> powrót na nastawnię, tarcza D1 zdjęta z toru nr 2.</td>
+  </tr>
+  <tr>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał nast. Malinowski,</td>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">odebrał ISEDR Kowalski, godz. 8<sup>45</sup>.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">-</td><!-- nr pociągu -->
+    <td style="text-align: center;">-</td><!-- z -->
+    <td style="text-align: center;">-</td><!-- na tor -->
+    <td style="text-align: center;"></td><!-- wjazd przygotowany w okręgu-->
+    <td style="text-align: center;">-</td><!-- wjazd przygotowany godz.-->
+    <td style="text-align: center;">-</td><!-- wjazd przygotowany min.-->
+    <td style="text-align: center;">-</td><!-- dać sygn. zezw. wj. godz.-->
+    <td style="text-align: center;">-</td><!-- dać sygn. zezw. wj. min.-->
+    <td style="text-align: center;">-</td><!-- p. wjechał godz. -->
+    <td style="text-align: center;">-</td><!-- p. wjechał min.-->
+    <td style="border-right: 3px double;" class="tylko-reczne-lamanie"></td><!-- uwagi -->
+    <td style="text-align: center;">Rob.1</td><!-- nr pociągu -->
+    <td style="text-align: center;">Bi</td><!-- do -->
+    <td style="text-align: center;">2</td><!-- z toru -->
+    <td style="text-align: center;"></td><!-- wyjazd przygotowany w okręgu-->
+    <td style="text-align: center;">8</td><!-- wyjazd przygotowany godz.-->
+    <td style="text-align: center;">47</td><!-- wyjazd przygotowany min.-->
+    <td style="text-align: center;">-</td><!-- dać sygn. zezw. wyj. godz.-->
+    <td style="text-align: center;">-</td><!-- dać sygn. zezw. wyj. min.-->
+    <td style="text-align: center;">8</td><!-- p. wyjechał godz. -->
+    <td style="text-align: center;">49</td><!-- p. wyjechał min.-->
+    <td class="tylko-reczne-lamanie">Drążek przeb. c przełożony,<br> rogatki zamknięte.<br> Może jechać o g. 8<sup>47</sup> do km. 159,5.<br> Dać sygn. zast. SzC. SzC - 000155</td><!-- uwagi -->
+  </tr>
+  <!-- Umieszczenie tarczy D1 na torze nr 2 -->
+  <tr>
+    <td colspan="22">O godz. 8<sup>50</sup>polecam wyjście w tory celem umieszczenia tarczy D1 w zamkniętym torze nr 2.</td>
+  </tr>
+  <tr>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał ISEDR Kowalski,</td>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">odebrał nast. Malinowski, godz. 8<sup>50</sup>.</td>
+  </tr>
+    <tr>
+    <td colspan="22">O godz. 8<sup>56</sup> powrót na nastawnię, tarcza D1 w torze nr 2.</td>
+  </tr>
+  <tr>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał nast. Malinowski,</td>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">odebrał ISEDR Kowalski, godz. 8<sup>56</sup>.</td>
+  </tr>
+  <! -- Wiersz tabeli dla zwykłego pociągu -->
+  <tr>
+    <td style="text-align: center;">213445</td><!-- nr pociągu -->
+    <td style="text-align: center;">Bi</td><!-- z -->
+    <td style="text-align: center;">1</td><!-- na tor -->
+    <td style="text-align: center;"></td><!-- wjazd przygotowany w okręgu-->
+    <td style="text-align: center;">-</td><!-- wjazd przygotowany godz.-->
+    <td style="text-align: center;">-</td><!-- wjazd przygotowany min.-->
+    <td style="text-align: center;">-</td><!-- dać sygn. zezw. wj. godz.-->
+    <td style="text-align: center;">-</td><!-- dać sygn. zezw. wj. min.-->
+    <td style="text-align: center;">9</td><!-- p. wjechał godz. -->
+    <td style="text-align: center;">05</td><!-- p. wjechał min.-->
+    <td style="border-right: 3px double;" class="tylko-reczne-lamanie"></td><!-- uwagi -->
+    <td style="text-align: center;">-</td><!-- nr pociągu -->
+    <td style="text-align: center;">-</td><!-- do -->
+    <td style="text-align: center;">-</td><!-- z toru -->
+    <td style="text-align: center;"></td><!-- wyjazd przygotowany w okręgu-->
+    <td style="text-align: center;">-</td><!-- wyjazd przygotowany godz.-->
+    <td style="text-align: center;">-</td><!-- wyjazd przygotowany min.-->
+    <td style="text-align: center;">-</td><!-- dać sygn. zezw. wyj. godz.-->
+    <td style="text-align: center;">-</td><!-- dać sygn. zezw. wyj. min.-->
+    <td style="text-align: center;">-</td><!-- p. wyjechał godz. -->
+    <td style="text-align: center;">-</td><!-- p. wyjechał min.-->
+    <td class="tylko-reczne-lamanie"></td><!-- uwagi -->
+  </tr>
+  <! -- Zdjęcie tarczy D1 z toru nr 2 -->
+  <tr>
+    <td colspan="22">O godz. 10<sup>10</sup>polecam wyjście w tory celem zdjęcia tarczy D1 z zamkniętego toru nr 2.</td>
+  </tr>
+  <tr>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał ISEDR Kowalski,</td>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">odebrał nast. Malinowski, godz. 10<sup>10</sup>.</td>
+  </tr>
+  <tr>
+    <td colspan="22">O godz. 10<sup>07</sup> powrót na nastawnię, tarcza D1 zdjęta z toru nr 2.</td>
+  </tr>
+  <tr>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał nast. Malinowski,</td>
+    <td colspan="11" style="text-align: center; border-right: 3px double;">odebrał ISEDR Kowalski, godz. 10<sup>07</sup>.</td>
+  </tr>
+</table>
+
+### 2. Dyżurny ruchu (przygotować wjazd roboczego)
+
+> Przygotować wjazd dla pociągu roboczego Rob.1 z zamkniętego toru nr 2 na tor pierwszy.
