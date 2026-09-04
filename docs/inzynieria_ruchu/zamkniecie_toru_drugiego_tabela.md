@@ -645,7 +645,168 @@ Dyżurny ruchu:
 </table>
 
 ##### Zgłoszenie przygotowania drogi przebiegu:
-> Dla pociągu 12344 do Białej wyjazd z toru drugiego na tor lewy nr 1 przygotowany. Położenie rozjazdów: 1 plus, 2 plus, 3 plus, 4 minus, 5 plus, 6 minus, 7 plus, Wk1 nałożona, rogatki zamknięte.
+> Dla pociągu 12344 do Białej wyjazd z toru drugiego na tor lewy nr 1 przygotowany o godz. 8<sup>23</sup>. Położenie rozjazdów: 1 plus, 2 plus, 3 plus, 4 minus, 5 plus, 6 minus, 7 plus, Wk1 nałożona, rogatki zamknięte.
 
----
----
+#### 3. Dyżurny ruchu ("może jechać"):
+> 12344 może jechać na tor lewy nr 1 o godz. 8<sup>24</sup>. Wyjazd na rozkaz pisemny drukowany.
+
+<table class="szeroka-tabela" border="2">
+  <tr>
+    <th colspan="3" style="text-align: center;">Przygotować wjazd</th>
+    <th colspan="3" style="text-align: center;">Wjazd przygotowany<br>(tor wolny)</th>
+    <th colspan="2" style="text-align: center;">Dać sygn.<br>zezwalający<br>na<br>semaforze<br>wjazdowym</th>
+    <th colspan="2" style="text-align: center;">Pociąg<br>wjechał</th>
+    <th rowspan="2" style="border-right: 3px double;">Uwagi</th>
+    <th colspan="3" style="text-align: center;">Przygotować wyjazd</th>
+    <th colspan="3" style="text-align: center;">Wyjazd przygotowany <br>(tor wolny)</th>
+    <th colspan="2" style="text-align: center;">Dać sygn. <br>zezwalający <br>na semafo-<br>rze wyjaz-<br>dowym</th>
+    <th colspan="2" style="text-align: center;">Pociąg<br>wyjechał</th>
+    <th rowspan="2" style="text-align: center;">Uwagi</th>
+  </tr>
+  <tr>
+    <th>pociągu<br>nr</th>
+    <th style="text-align: center;">z (skrót<br>sąsiedn. poster.<br>zapow.)</th>
+    <th>na tor</th>
+    <th>w okręgu</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>pociągu<br>nr</th>
+    <th>do (skrót sąsiedn. poster. zapow.)</th>
+    <th>z toru</th>
+    <th>w okręgu</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+  </tr>
+  <tr>
+    <th style="text-align: center;">1</th>
+    <th style="text-align: center;">2</th>
+    <th style="text-align: center;">3</th>
+    <th style="text-align: center;">4</th>
+    <th colspan="2" style="text-align: center;">5</th>
+    <th colspan="2" style="text-align: center;">6</th>
+    <th colspan="2" style="text-align: center;">7</th>
+    <th style="text-align: center; border-right: 3px double;">8</th>
+    <th style="text-align: center;">1</th>
+    <th style="text-align: center;">2</th>
+    <th style="text-align: center;">3</th>
+    <th style="text-align: center;">4</th>
+    <th colspan="2" style="text-align: center;">5</th>
+    <th colspan="2" style="text-align: center;">6</th>
+    <th colspan="2" style="text-align: center;">7</th>
+    <th style="text-align: center;">8</th>
+  </tr>
+  <tr>
+      <td style="text-align: center;">12344</td><!-- nr pociągu -->
+      <td style="text-align: center;">Kr</td><!-- z -->
+      <td style="text-align: center;">2</td><!-- na tor -->
+      <td style="text-align: center;"></td><!-- wjazd przygotowany w okręgu-->
+      <td style="text-align: center;">8</td><!-- wjazd przygotowany godz.-->
+      <td style="text-align: center;">20</td><!-- wjazd przygotowany min.-->
+      <td style="text-align: center;">-</td><!-- dać sygn. zezw. wj. godz.-->
+      <td style="text-align: center;">-</td><!-- dać sygn. zezw. wj. min.-->
+      <td style="text-align: center;">-</td><!-- p. wjechał godz. -->
+      <td style="text-align: center;">-</td><!-- p. wjechał min.-->
+      <td style="border-right: 3px double;" class="tylko-reczne-lamanie"></td><!-- uwagi -->
+      <td style="text-align: center;">12344</td><!-- nr pociągu -->
+      <td style="text-align: center;">Bi</td><!-- do -->
+      <td style="text-align: center;">2</td><!-- z toru -->
+      <td></td><!-- wyjazd przygotowany w okręgu-->
+      <td>8</td><!-- wyjazd przygotowany godz.-->
+      <td>23</td><!-- wyjazd przygotowany min.-->
+      <td style="text-align: center;">-</td><!-- dać sygn. zezw. wyj. godz.-->
+      <td style="text-align: center;">-</td><!-- dać sygn. zezw. wyj. min.-->
+      <td style="text-align: center;"></td><!-- p. wyjechał godz. -->
+      <td style="text-align: center;"></td><!-- p. wyjechał min.-->
+      <td class="tylko-reczne-lamanie">Położenie rozjazdów:<br> 1 plus, 2 plus, 3 plus,<br> 4 minus, 5 plus, 6 minus,<br> 7 plus, Wk1 nałożona,<br> rogatki zamknięte.<br> Może jechać na tor lewy<br> nr 1 o g. 8<sup>24</sup>. RD.</td><!-- uwagi -->
+    </tr>
+</table>
+
+#### 4. Nastawniczy:
+> Tor drugi wolny o godz. 8<sup>27</sup>.
+
+<table class="szeroka-tabela" border="2">
+  <tr>
+    <th colspan="3" style="text-align: center;">Przygotować wjazd</th>
+    <th colspan="3" style="text-align: center;">Wjazd przygotowany<br>(tor wolny)</th>
+    <th colspan="2" style="text-align: center;">Dać sygn.<br>zezwalający<br>na<br>semaforze<br>wjazdowym</th>
+    <th colspan="2" style="text-align: center;">Pociąg<br>wjechał</th>
+    <th rowspan="2" style="border-right: 3px double;">Uwagi</th>
+    <th colspan="3" style="text-align: center;">Przygotować wyjazd</th>
+    <th colspan="3" style="text-align: center;">Wyjazd przygotowany <br>(tor wolny)</th>
+    <th colspan="2" style="text-align: center;">Dać sygn. <br>zezwalający <br>na semafo-<br>rze wyjaz-<br>dowym</th>
+    <th colspan="2" style="text-align: center;">Pociąg<br>wyjechał</th>
+    <th rowspan="2" style="text-align: center;">Uwagi</th>
+  </tr>
+  <tr>
+    <th>pociągu<br>nr</th>
+    <th style="text-align: center;">z (skrót<br>sąsiedn. poster.<br>zapow.)</th>
+    <th>na tor</th>
+    <th>w okręgu</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>pociągu<br>nr</th>
+    <th>do (skrót sąsiedn. poster. zapow.)</th>
+    <th>z toru</th>
+    <th>w okręgu</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+    <th>g.</th>
+    <th>m.</th>
+  </tr>
+  <tr>
+    <th style="text-align: center;">1</th>
+    <th style="text-align: center;">2</th>
+    <th style="text-align: center;">3</th>
+    <th style="text-align: center;">4</th>
+    <th colspan="2" style="text-align: center;">5</th>
+    <th colspan="2" style="text-align: center;">6</th>
+    <th colspan="2" style="text-align: center;">7</th>
+    <th style="text-align: center; border-right: 3px double;">8</th>
+    <th style="text-align: center;">1</th>
+    <th style="text-align: center;">2</th>
+    <th style="text-align: center;">3</th>
+    <th style="text-align: center;">4</th>
+    <th colspan="2" style="text-align: center;">5</th>
+    <th colspan="2" style="text-align: center;">6</th>
+    <th colspan="2" style="text-align: center;">7</th>
+    <th style="text-align: center;">8</th>
+  </tr>
+  <tr>
+      <td style="text-align: center;">12344</td><!-- nr pociągu -->
+      <td style="text-align: center;">Kr</td><!-- z -->
+      <td style="text-align: center;">2</td><!-- na tor -->
+      <td style="text-align: center;"></td><!-- wjazd przygotowany w okręgu-->
+      <td style="text-align: center;">8</td><!-- wjazd przygotowany godz.-->
+      <td style="text-align: center;">20</td><!-- wjazd przygotowany min.-->
+      <td style="text-align: center;">-</td><!-- dać sygn. zezw. wj. godz.-->
+      <td style="text-align: center;">-</td><!-- dać sygn. zezw. wj. min.-->
+      <td style="text-align: center;">-</td><!-- p. wjechał godz. -->
+      <td style="text-align: center;">-</td><!-- p. wjechał min.-->
+      <td style="border-right: 3px double;" class="tylko-reczne-lamanie"></td><!-- uwagi -->
+      <td style="text-align: center;">12344</td><!-- nr pociągu -->
+      <td style="text-align: center;">Bi</td><!-- do -->
+      <td style="text-align: center;">2</td><!-- z toru -->
+      <td style="text-align: center;"></td><!-- wyjazd przygotowany w okręgu-->
+      <td style="text-align: center;">8</td><!-- wyjazd przygotowany godz.-->
+      <td style="text-align: center;">23</td><!-- wyjazd przygotowany min.-->
+      <td style="text-align: center;">-</td><!-- dać sygn. zezw. wyj. godz.-->
+      <td style="text-align: center;">-</td><!-- dać sygn. zezw. wyj. min.-->
+      <td style="text-align: center;">8</td><!-- p. wyjechał godz. -->
+      <td style="text-align: center;">27</td><!-- p. wyjechał min.-->
+      <td class="tylko-reczne-lamanie">Położenie rozjazdów:<br> 1 plus, 2 plus, 3 plus,<br> 4 minus, 5 plus, 6 minus,<br> 7 plus, Wk1 nałożona,<br> rogatki zamknięte.<br> Może jechać na tor lewy<br> nr 1 o g. 8<sup>24</sup>. RD.</td><!-- uwagi -->
+    </tr>
+</table>
