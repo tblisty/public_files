@@ -2,7 +2,7 @@
 ```mermaid
 %%{init: {'flowchart': {'defaultRenderer': 'dagre', 'curve': 'basis'}}}%%
 flowchart LR
-    subgraph du1[" Du1 "]
+    subgraph du1["Dubno - Du1 "]
         rozjazd1["Rojzazd 1"]
         rozjazd2["Rozjazd 2"]
         rozjazd3["Rozjazd 3"]
@@ -13,7 +13,7 @@ flowchart LR
         wykolejnica1["Wykolejnica Wk1"]
     end
 
-    subgraph du["Du"]
+    subgraph du["Dubno - Du"]
         rozjazd11["Rozjazd 11"]
         rozjazd12["Rozjazd 12"]
         rozjazd13["Rozjazd 13"]
@@ -63,6 +63,14 @@ rozjazd4      --- rozjazd13
 rozjazd7      --- rozjazd14
 rozjazd14     --- rozjazd15
 rozjazd6      --- rozjazd15
+rozjazd13     --- rozjazd16
+rozjazd16     --- Os_Du_1
+rozjazd16     --- rozjazd17
+rozjazd17     --- rozjazd18
+rozjazd18     --- Os_Du_2
+rozjazd18     --- rozjazd19
+rozjazd19     --- kr_du
+rozjazd14     --- rozjazd19
 
 
 
