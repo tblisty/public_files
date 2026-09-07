@@ -120,6 +120,7 @@ block.parentNode.replaceChild(mermaidDiv, block);
 // 2. Zainicjalizuj i wyrenderuj wykryte schematy
 mermaid.initialize({
 startOnLoad: true,
+useMaxWidth: false,
 theme: 'default'
 });
 });
