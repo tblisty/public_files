@@ -3,7 +3,7 @@
 # Przykładowa stacja
 
 ```mermaid
-%%{init: {'flowchart': { useMaxWidth: false }, {'defaultRenderer': 'dagre', 'curve': 'basis'}}}%%
+%%{init: {'flowchart': { 'useMaxWidth': false, 'defaultRenderer': 'dagre', 'curve': 'basis'}}}%%
 flowchart LR
 
     subgraph biala["Biała"]
