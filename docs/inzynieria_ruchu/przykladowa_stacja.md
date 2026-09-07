@@ -128,8 +128,9 @@ theme: 'default'
 /* Dodatkowa ochrona przed brzydkim stylowaniem tła w niektórych motywach GitHub Pages */
 .mermaid {
 background: transparent !important;
-display: flex;
-justify-content: center;
+display: block; 
+width: max-content; 
+overflow-x: auto;
 margin: 1.5rem 0;
 }
 </style>
