@@ -2302,7 +2302,8 @@ Dyżurny ruchu:
     <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał nast. Malinowski,</td>
     <td colspan="11" style="text-align: center; border-right: 3px double;">odebrał ISEDR Kowalski, godz. 8<sup>56</sup>.</td>
   </tr>
-  <tr><! -- Wiersz tabeli dla zwykłego pociągu -->
+  <!-- Wiersz tabeli dla zwykłego pociągu -->
+  <tr>`
     <td style="text-align: center;">213445</td><!-- nr pociągu -->
     <td style="text-align: center;">Bi</td><!-- z -->
     <td style="text-align: center;">1</td><!-- na tor -->
@@ -2326,7 +2327,7 @@ Dyżurny ruchu:
     <td style="text-align: center;">-</td><!-- p. wyjechał min.-->
     <td class="tylko-reczne-lamanie"></td><!-- uwagi -->
   </tr>
-  <tr><! -- Zdjęcie tarczy D1 z toru nr 2 -->
+  <tr><!-- Zdjęcie tarczy D1 z toru nr 2 -->
     <td colspan="22">O godz. 10<sup>10</sup>polecam wyjście w tory celem zdjęcia tarczy D1 z zamkniętego toru nr 2.</td>
   </tr>
   <tr>
