@@ -42,17 +42,22 @@ flowchart LR
         Os_Du_2
     end
 
+biala ~~~ du1
+du1 ~~~ du
+du ~~~ krowica
+du ~~~ osowiec
+
 bi_du_2 ---|"Tor nr 2"| rozjazd1
 bi_du_1 ---|"Tor nr 1"| rozjazd2
 rozjazd2     --- rozjazd3
 rozjazd1     --- rozjazd2
+rozjazd1     --- rozjazd6
+rozjazd6     --- rozjazd7
+rozjazd4     --- rozjazd6
 rozjazd3     --- rozjazd4
 rozjazd3     --- rozjazd5
 rozjazd5     --- wykolejnica1
 wykolejnica1 --- wykolejnica11
-rozjazd1     --- rozjazd6
-rozjazd6     --- rozjazd7
-rozjazd4     --- rozjazd6
 
 wykolejnica11 --- rozjazd11
 rozjazd5      --- rozjazd11

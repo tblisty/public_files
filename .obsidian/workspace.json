@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/varia/usterka/zerwanie_pedni_zwrotnicowej.md",
+                "file": "docs/inzynieria_ruchu/przykladowa_stacja.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zerwanie_pedni_zwrotnicowej"
+              "title": "przykladowa_stacja"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Przeglądarka plików"
@@ -78,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a0306f4cedf01d0b",
@@ -174,19 +177,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "command-palette:Otwórz paletę poleceń": false,
       "switcher:Otwórz okno szybkiego wyboru": false,
       "graph:Otwórz podgląd grafu": false,
       "canvas:Stwórz nową tablicę": false,
       "daily-notes:Otwórz dzisiejszy dziennik": false,
       "templates:Wstaw szablon": false,
-      "command-palette:Otwórz listę poleceń": false,
       "bases:Stwórz nową bazę danych": false
     }
   },
   "active": "f1574cdddd71aa7c",
   "lastOpenFiles": [
-    "docs/varia/usterka/r-142_html_i_e1758.md",
     "docs/varia/usterka/zerwanie_pedni_zwrotnicowej.md",
+    "docs/varia/usterka/r-142_html_i_e1758.md",
     "docs/varia/usterka/zerwanie_pedni_zwrotnicowej_poczatek.md",
     "docs/varia/usterka/zerwanie_pedni_t4.md",
     "docs/varia/usterka/style1.css",
