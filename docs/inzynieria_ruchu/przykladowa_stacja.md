@@ -53,34 +53,34 @@ flowchart LR
 du1 ~~~ du
 du ~~~ krowica
 
-bi_du_2 ---|"Tor nr 2"| rozjazd1
-rozjazd1     --- rozjazd6
-rozjazd6     --- rozjazd7
-bi_du_1 ---|"Tor nr 1"| rozjazd2
-rozjazd2     --- rozjazd3
+bi_du_2 ===|"Tor nr 2"| rozjazd1
+rozjazd1     === rozjazd6
+rozjazd6     === rozjazd7
+bi_du_1 ===|"Tor nr 1"| rozjazd2
+rozjazd2     === rozjazd3
+rozjazd5      -------|"Tor trzeci"| rozjazd11
 rozjazd1     --- rozjazd2
 rozjazd4     --- rozjazd6
-rozjazd3     --- rozjazd4
+rozjazd3     === rozjazd4
 rozjazd3     --- rozjazd5
 rozjazd5     --- wykolejnica1
-wykolejnica1 ----- wykolejnica11
 
-wykolejnica11 --- rozjazd11
-rozjazd5      --- rozjazd11
+rozjazd14     --- rozjazd19
 rozjazd11     --- rozjazd12
-rozjazd12     --- zak_trzeciego
 rozjazd12     --- rozjazd13
-rozjazd4      --- rozjazd13
-rozjazd7      --- rozjazd14
+rozjazd12     --- zak_trzeciego
+rozjazd4      ===|"Tor pierwszy"| rozjazd13
+rozjazd7      -------|"Tor czwarty" | rozjazd14
 rozjazd14     --- rozjazd15
-rozjazd7      --- rozjazd15
-rozjazd13     --- rozjazd16
+rozjazd7      ===|"Tor drugi"   | rozjazd15
+rozjazd13     === rozjazd16
 rozjazd16     --- rozjazd17
-rozjazd17     --- rozjazd18
+rozjazd17     === rozjazd18
 rozjazd18     --- rozjazd19
 rozjazd19     --- kr_du
-rozjazd14     --- rozjazd19
-rozjazd15     --- rozjazd17
+rozjazd15     === rozjazd17
+wykolejnica11 --- rozjazd11
+wykolejnica1 ---|"Tor piąty"| wykolejnica11
 rozjazd16     ---- Os_Du_1
 rozjazd18     ---- Os_Du_2
 
