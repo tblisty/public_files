@@ -28,7 +28,7 @@
 - [ ] Żerków [mapa](https://maps.app.goo.gl/K6UQfRiZt9EC4jPf7?g_st=ac)
 - [ ] Orzechowo [mapa](https://maps.app.goo.gl/ajG9pgsHHcH71Mdm7)
 - [ ] Miłosław [mapa](https://maps.app.goo.gl/yThGX3PuU9t1CJJb8?g_st=ac)
-- [ ] Książno [mapa](https://maps.app.goo.gl/oh4CrwztmMxzWCkZA?g_st=ac) 52,2486476, 17,4960916
+- [ ] Książno [lokalizacja](https://www.google.com/maps?q=51.70105839475373,17.426212179660155)  [mapa](https://maps.app.goo.gl/oh4CrwztmMxzWCkZA?g_st=ac) 52,2486476,17.4960916) 52.2486476, 17.4960916
 
 ## 272 (Kluczbork - Poznań Główny)
 
